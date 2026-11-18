@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>28,882</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-18</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>28,831</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-18</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-18 08:16 UTC</sub>
+<sub>Snapshot 2026-11-18 12:16 UTC</sub>
 
 </div>
 
@@ -50,16 +50,23 @@ For software engineers, IT specialists, and security professionals, this list is
 
 ## Open jobs
 
-**28,882 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-18 08:16 UTC.** Apply links go to the employer's career page or hiring system.
+**28,831 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-18 12:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Director, Developer Platform and Tools | Ford Motor Company | Dearborn, MI, United States |  | 2026-11-18 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74286) |
+| Cyber Security Engineer | Ford Motor Company | United States |  | 2026-11-18 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73986) |
+| Data Security Platform Engineer | Ford Motor Company | United States |  | 2026-11-18 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73382) |
+| APEX Developer | Oracle | United States |  | 2026-11-18 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344970) |
+| Apps Dev Intmd Programmer Analyst - Officer | Citi | Tampa Florida United States |  | 2026-11-18 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_261009659) |
+| Engineering Lead, Full Stack, Growth Team | airwallex | US - San Francisco |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/airwallex/f7c90c5e-67a6-4557-bd59-7a31d018fada) |
+| Engineering Lead, Full Stack, Growth Team | airwallex | US - Seattle |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/airwallex/3f5219eb-46de-4add-a71b-5c0e004ca444) |
+| Senior Software Engineer, Behavior Planning | aerovect | South San Francisco - Hybrid |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/AeroVect/f7b66879-c7de-4060-b2f0-3ed243635d1a) |
 | Senior IT Support Manager | bullish | New York |  | 2026-11-18 | [Apply](https://bullish.wd3.myworkdayjobs.com/en-US/bullish/job/New-York/Specialist--IT-Support_JR2001208-1) |
 | Software Engineer II | candescent | IN - Hyderabad - Office |  | 2026-11-18 | [Apply](https://candescent.wd501.myworkdayjobs.com/en-US/hiring/job/IN---Hyderabad---Office/Software-Engineer-II_R0002265) |
 | Apps Dev Intmd Programmer Analyst - Officer | Citi | Tampa Florida United States |  | 2026-11-18 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_261007713) |
 | Apps Dev Intmd Programmer Analyst -Officer | Citi | Tampa Florida United States |  | 2026-11-18 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst--Officer_261009232) |
-| Apps Dev Intmd Programmer Analyst - Officer | Citi | Tampa Florida United States |  | 2026-11-18 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Apps-Dev-Intmd-Programmer-Analyst---Officer_261009684) |
 | Senior Software Engineer — Integrations & AI Agents | mirantis | Raleigh, NC, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/mirantis/744000162220659) |
 | Software Engineer | atlas | San Francisco |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/atlas/8acfd23c-fd87-4322-bed1-4258b7199c3d) |
 | Software Engineering Intern (BS/MS) | Airbnb | San Francisco, California |  | 2026-11-18 | [Apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
@@ -116,14 +123,22 @@ For software engineers, IT specialists, and security professionals, this list is
 | Full Stack Engineer 4 (Lead/ Manager IC) | Capital One | 4 Locations |  | 2026-11-18 | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Lead--Manager-IC-_R1006021-1) |
 | Full Stack Software Engineer | University of Washington | Seattle, WA |  | 2026-11-18 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Full-Stack-Developer_REQ-0000138749) |
 | Senior Software Engineer | Humana | 5 Locations |  | 2026-11-18 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Senior-Software-Engineer_R-436922-1) |
+| Clinical Informatics - Vocera Systems Administrator | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-17 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=988599&lang=en) |
+| 2027 Intern - Software Engineer (Electronic Systems) - Hunt Valley, MD | Textron | Hunt Valley, MD, US |  | 2026-11-17 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688&lang=en) |
+| Application Developer II | Commonwealth of Massachusetts | Boston, MA, US |  | 2026-11-17 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260005SO&lang=en) |
+| Division IT Support-WA | D.R. Horton | Vancouver, WA, US |  | 2026-11-17 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605689&lang=en) |
+| Software Engineering Intern | Emerson Electric | Austin, TX, United States |  | 2026-11-17 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013632) |
+| Advanced Specialist, Security Operations | Pearson | United States |  | 2026-11-17 | [Apply](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26728) |
+| Senior Data AI Developer | Howmet Aerospace | Torrance, CA, United States |  | 2026-11-17 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120591) |
+| Full Stack Developer | Sherwin-Williams | Cleveland, OH, United States |  | 2026-11-17 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629244) |
+| Data Security Analyst | Sherwin-Williams | Cleveland, OH, United States |  | 2026-11-17 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628537) |
+| OCI Intern Conversion - Undergrad Software Engineer Full-Time - Nashville, TN -... | Oracle | Nashville, TN, United States |  | 2026-11-17 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350821) |
+| Manager, Platform Software Engineering | Oracle | United States |  | 2026-11-17 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350787) |
+| Early Careers: Software Developer Engineer | Fortinet | Sunnyvale, CA, United States |  | 2026-11-17 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24983) |
+| Staff Security Engineer (IAM) | Fortinet | Sunnyvale, CA, United States |  | 2026-11-17 | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24895) |
+| Global Security Operations Center (GSOC) Operator | Texas Instruments | Dallas, TX, United States |  | 2026-11-17 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020212) |
 | Power Platforms Developer | CompQsoft Inc. - ACTIVE | KITTERY, ME |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4669636) |
-| Senior Engineer, Full Stack & AI | 3Degrees | San Francisco, California, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/A43CAAD568) |
-| Software Engineer - Core Contributor | Weekday AI | US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/064EBE04E9) |
 | Java Software Engineer | kiongroup | 4 Locations |  | 2026-11-17 | [Apply](https://kiongroup.wd3.myworkdayjobs.com/en-US/kion_scs/job/Grand-Rapids-MI-United-States/Java-Software-Engineer_JR-0098662-1) |
-| Infrastructure Engineer | rgi | Richardson, TX |  | 2026-11-17 | [Apply](https://jobs.lever.co/rgi/d2c1474e-8138-4f7f-af41-6cc2b756a85a) |
-| Application Layer Engineer | rgi | Richardson, TX |  | 2026-11-17 | [Apply](https://jobs.lever.co/rgi/6d010e59-d22d-431f-b588-38b5873bc3f1) |
-| Senior Software Engineer Interactive Mobility | rai | Cambridge, MA |  | 2026-11-17 | [Apply](https://jobs.lever.co/rai/65238379-4743-41e9-809f-c43663dd3b74) |
-| Robotics Software Engineer Interactive Mobility | rai | Cambridge, MA |  | 2026-11-17 | [Apply](https://jobs.lever.co/rai/7f5fc9de-bccd-4d65-93f1-8b28d93a8223) |
 | Software Engineer I, Commerce | Twitch | Seattle, WA |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8949388002) |
 | Senior Staff Software Engineer | Ripple | San Francisco, CA, United States |  | 2026-11-17 | [Apply](https://ripple.com/careers/all-jobs/job/8397720?gh_jid=8397720) |
 | Staff Software Engineer | Okta | Washington D.C. |  | 2026-11-17 | [Apply](https://www.okta.com/company/careers/opportunity/8385710?gh_jid=8385710) |
@@ -190,21 +205,6 @@ For software engineers, IT specialists, and security professionals, this list is
 | Developer Relations, Platform | Anthropic | San Francisco, CA / New York City, NY |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5206870008) |
 | Software Engineer, DevAI | Airbnb | United States |  | 2026-11-17 | [Apply](https://careers.airbnb.com/positions/8397762?gh_jid=8397762) |
 | Senior Software Engineer, Vehicle Platform Integrations | Aurora Innovation | Pittsburgh, PA |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/ba07e677-4c10-4554-b9b9-343d10827b9a) |
-| Fullstack Engineer | agilesix | Washington, District of Columbia, United States |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/agilesix/jobs/8207402003) |
-| AI Native Software Engineer Manager/Sr. Manager | accenture |  |  | 2026-11-17 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Chicago-Accenture-Tower-Corp/AI-Native-Software-Engineer_R00361757) |
-| Software Engineering Manager | aquafinance | 5 Locations |  | 2026-11-17 | [Apply](https://aquafinance.wd12.myworkdayjobs.com/en-US/aqua_finance/job/Remote----United-States/Software-Engineering-Manager_491) |
-| Software Engineering Manager | aquafinance | 5 Locations |  | 2026-11-17 | [Apply](https://aquafinance.wd12.myworkdayjobs.com/en-US/aqua_finance/job/Remote----United-States/Software-Engineering-Manager_490) |
-| Director, Software Engineering (Credit & Funding) | aquafinance | 5 Locations |  | 2026-11-17 | [Apply](https://aquafinance.wd12.myworkdayjobs.com/en-US/aqua_finance/job/Remote----United-States/Director--Software-Engineering--Credit---Funding-_494) |
-| Online Technical Support Engineer -Campus Hire Program | agilent | US-DE-Wilmington |  | 2026-11-17 | [Apply](https://agilent.wd5.myworkdayjobs.com/en-US/agilent_student_careers/job/US-DE-Wilmington/Online-Technical-Support-Engineer--Campus-Hire-Program_4040676) |
-| Online Technical Support Engineer -Campus Hire Program | agilent | US-DE-Wilmington |  | 2026-11-17 | [Apply](https://agilent.wd5.myworkdayjobs.com/en-US/agilent_student_careers/job/US-DE-Wilmington/Online-Technical-Support-Engineer--Campus-Hire-Program_4040677) |
-| WGL - Infrastructure & Cybersecurity, Business Analyst | wgl | Springfield, VA |  | 2026-11-17 | [Apply](https://wgl.wd5.myworkdayjobs.com/en-US/altagas/job/Springfield-VA/WGL---Infrastructure---Cybersecurity---Business-Analyst_R7209) |
-| Infrastructure Systems Administrator | axiomspace | Houston |  | 2026-11-17 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/en-US/external_career_site/job/Houston/Infrastructure-Systems-Administrator_JR100925-1) |
-| Director, Rapid Development & DevOps Enablement​ | epiqsystems | 4 Locations |  | 2026-11-17 | [Apply](https://epiqsystems.wd503.myworkdayjobs.com/en-US/epiq_careers/job/Tampa-FL/Director--Rapid-Development---DevOps-Enablement-_R0035451) |
-| Senior Software Engineer - Salesforce | graco | Dayton, Minnesota, USA |  | 2026-11-17 | [Apply](https://graco.wd501.myworkdayjobs.com/en-US/graco_careers/job/Dayton-Minnesota-USA/Senior-Software-Engineer---Salesforce_R0024155) |
-| Information Security Officer | endurance | 9 Locations |  | 2026-11-17 | [Apply](https://endurance.wd103.myworkdayjobs.com/en-US/sompointernational/job/Purchase-New-York/Information-Security-Officer_R3875) |
-| Staff Software Engineer | wgu | Salt Lake City, UT |  | 2026-11-17 | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/external/job/Salt-Lake-City-UT/Staff-Software-Engineer_JR-026034) |
-| Senior Software Engineer | toyota | Plano, Texas |  | 2026-11-17 | [Apply](https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/Senior-Software-Engineer_10331376-1) |
-| Principal Software Developer (Expertise with C++) | aspentech | Houston |  | 2026-11-17 | [Apply](https://aspentech.wd5.myworkdayjobs.com/en-US/aspentech/job/Houston/Principal-Software-Developer--Expertise-with-C---_R9676) |
 <!-- JOBS_TABLE_END -->
 
 <details>
