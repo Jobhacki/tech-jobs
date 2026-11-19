@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>29,631</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>29,959</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-19 08:16 UTC</sub>
+<sub>Snapshot 2026-11-19 12:18 UTC</sub>
 
 </div>
 
@@ -50,16 +50,22 @@ For software engineers, IT specialists, and security professionals, this list is
 
 ## Open jobs
 
-**29,631 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 08:16 UTC.** Apply links go to the employer's career page or hiring system.
+**29,959 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 12:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Sr Staff Software Engineer | ServiceNow | Albany, NEW YORK, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162495197) |
+| Sr Staff Software Engineer | ServiceNow | Albany, NEW YORK, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162495859) |
+| Service Desk Technician | spektrum | Norfolk, VA, USA |  | 2026-11-19 | [Apply](https://spektrum-group.com/jobs?gh_jid=5042292101) |
+| Service Desk Technician | City of New York | New York City, NY, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016959056) |
+| PeopleSoft Developer | City of New York | New York City, NY, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016959256) |
+| System Administrator | City of New York | New York City, NY, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016959286) |
+| Developer Support Engineer | revenuecat | Americas |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/revenuecat/edcc931f-acd1-49ee-9b58-207cdcf31b43) |
 | Software Engineer III | Walmart | Bellevue, WA |  | 2026-11-19 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Bellevue-WA/Software-Engineer-III_R-2709824) |
 | Software Engineer III | Walmart | Sunnyvale, CA |  | 2026-11-19 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III_R-2709823-1) |
 | Software Engineer III | Walmart | Sunnyvale, CA |  | 2026-11-19 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III_R-2709805-1) |
 | Senior Software Engineer, Distributed Systems | NVIDIA | US, CA, Santa Clara |  | 2026-11-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Distributed-Systems_JR2030254) |
-| Quality Systems Administrator | seranbio | Bend, Oregon |  | 2026-11-19 | [Apply](https://jobs.lever.co/seranbio/0ed58844-8cc8-4103-a78b-59d457477935) |
 | Director, Software Engineering (Security Business Group) | cisco | Milpitas, California, US |  | 2026-11-19 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Milpitas-California-US/Director--Software-Engineering--Security-Business-Group-_2021691) |
 | Senior SAP CRM Developer – ABAP / Web UI (Korean Bilingual) | SBT Global | Plano, TX, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/SBTGlobalInc/3743990016953936) |
 | ServiceNow Developer | LLNL | Livermore, CA, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016953176) |
@@ -100,11 +106,17 @@ For software engineers, IT specialists, and security professionals, this list is
 | Senior Security Engineer – Akamai & Edge Security Services | CVS Health | NY - New York |  | 2026-11-19 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Senior-Security-Engineer---Akamai---Edge-Security-Services_R1067990) |
 | Software Engineer 2 | Humana | 4 Locations |  | 2026-11-19 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Software-Engineer-2_R-432732) |
 | Cyber Security Engineer | SOSi1 | Joint Base Pearl Harbor Hickam, HI, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/SOSi1/3743990016953106) |
-| Technical Support Associate - (Monday - Friday 9am-6pm cst) | Signature Solar | Sulphur Springs, TX, US |  | 2026-11-18 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3fd9ccdd-18fd-4994-b2d1-404785913405&ccId=19000101_000001&jobId=590142&lang=en_US&source=CC2) |
-| Senior Platform Engineer (Remote) | Hospitable | Remote, Oregon, US |  | 2026-11-18 | [Apply](https://apply.workable.com/j/A2091F150C) |
-| Security Operations Center Lead | SteerBridge | Vienna, VA |  | 2026-11-18 | [Apply](https://jobs.lever.co/steerbridge/faf4fde5-fe41-4496-a011-fee383d70bf2) |
-| Security Engineer - Security Operations | SteerBridge | Vienna, VA |  | 2026-11-18 | [Apply](https://jobs.lever.co/steerbridge/3bfa7740-584a-40bc-ae1f-4211dc9c5e00) |
-| IT Helpdesk Associate | dailywire | Nashville, TN |  | 2026-11-18 | [Apply](https://jobs.lever.co/dailywire/2a393f29-ebd6-441f-8a86-645870bc877e) |
+| Imaging Systems Administrator III | Nuvance Health | Danbury, CT, United States |  | 2026-11-18 | [Apply](https://jobs.jobvite.com/nuvance/job/ov9NAfwL) |
+| Consultant, Senior Principal (Cybersecurity) | American Bureau of Shipping | United States |  | 2026-11-18 | [Apply](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5024) |
+| Software Engineer 1/2/3 - BHEPG | Berkshire Hathaway Energy | Omaha, NE, United States |  | 2026-11-18 | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006023) |
+| Full Stack AI Software Engineer | Ford Motor Company | Redford, MI, United States |  | 2026-11-18 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74242) |
+| Platform Software Engineer | Ford Motor Company | Dearborn, MI, United States |  | 2026-11-18 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74073) |
+| Software Engineering Manager- CoreOS Platform | Ford Motor Company | Palo Alto, CA, United States |  | 2026-11-18 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73882) |
+| Platform Software Engineering Architect | Oracle | Pleasanton, CA, United States |  | 2026-11-18 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350911) |
+| Senior Manager, Platform Software Engineering | Oracle | United States |  | 2026-11-18 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350912) |
+| Lead Principal Platform Software Engineer | Oracle | Nashville, TN, United States |  | 2026-11-18 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350885) |
+| Senior Embedded Firmware Engineer | ADP employer 47265edf | Mayfield Heights, OH, US |  | 2026-11-18 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=47265edf-244d-45d7-ad34-fc81d446a318&ccId=19000101_000001&jobId=624962&lang=en_US&source=CC2) |
+| IT Application Developer | MacDonald-Miller Facility Solutions | Seattle, Washington, US |  | 2026-11-18 | [Apply](https://apply.workable.com/j/6854239EA0) |
 | IT Specialist | Frontier Credit Union | Idaho Falls, ID |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4675735) |
 | Director of Agentic Security Engineering | Classlink Inc | United States |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4666334) |
 | Staff Software Engineer, Field Response | Waymo | Mountain View, CA, USA |  | 2026-11-18 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8396989) |
@@ -193,18 +205,6 @@ For software engineers, IT specialists, and security professionals, this list is
 | Service Desk Technician II | avav | Simi Valley, CA |  | 2026-11-18 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Service-Desk-Technician-II_9427) |
 | Service Desk Technician II | avav | Germantown, MD |  | 2026-11-18 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Germantown-MD/Service-Desk-Technician-II_9428) |
 | Service Desk Technician II | avav | Huntsville, AL |  | 2026-11-18 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Huntsville-AL/Service-Desk-Technician-II_9433) |
-| Platform Engineer, Software Engineering – Aladdin - Director | blackrock | Atlanta, GA |  | 2026-11-18 | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/Atlanta-GA/Platform-Engineer--Software-Engineering---Aladdin---Director_R267235) |
-| Senior DevOps Engineer / Platform Engineer | copart | Dallas, TX - Headquarters |  | 2026-11-18 | [Apply](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Senior-DevOps-Engineer---Platform-Engineer_JR111329) |
-| Information Technology Applications Developer - WebTeam Java | son | Lincoln, NE |  | 2026-11-18 | [Apply](https://son.wd108.myworkdayjobs.com/en-US/nebraskastatecareers/job/Lincoln-NE/Information-Technology-Applications-Developer---WebTeam-Java_JR2026-00030592-1) |
-| Sr. Software Engineer | cat | 2 Locations |  | 2026-11-18 | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Peoria-Illinois/Sr-Software-Engineer_R0000394330) |
-| Sr Software Engineer - Network & SDN - TeraWave | blueorigin | 2 Locations |  | 2026-11-18 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Sr-Software-Engineer---Network---SDN---TeraWave_R74472) |
-| Software Engineer, Missile Defense National Team, C2BMC (Associate, Experienced... | boeing | 2 Locations |  | 2026-11-18 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Colorado-Springs-CO/Software-Engineer---C2BMC--Associate--Experienced-or-Senior-_JR2026510032) |
-| Cybersecurity Engineer - US Federal | Workday | USA.VA.Reston |  | 2026-11-18 | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Cybersecurity-Engineer---US-Federal_JR-0109167) |
-| Applications Development Sr Programmer Analyst | Citi | 2 Locations |  | 2026-11-18 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Applications-Development-Sr-Programmer-Analyst_26999228) |
-| Software Engineer 2 (ServiceNow CSM and ITSM) | U.S. Bank | Hopkins, MN |  | 2026-11-18 | [Apply](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Hopkins-MN/Software-Engineer-2---ServiceNow-developer-Fleet-Product-Group_2026-0022012) |
-| Application Developer | University of Washington | Seattle, WA |  | 2026-11-18 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Application-Developer_REQ-0000138758) |
-| Senior Full Stack Engineer - NBA | Humana | Remote Nationwide |  | 2026-11-18 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Full-Stack-Engineer---NBA_R-426819) |
-| Software Engineer, Vercel Agent | Vercel | Hybrid - New York City |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6264524004) |
 <!-- JOBS_TABLE_END -->
 
 <details>
