@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>29,298</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-20</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>30,136</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-20</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-20 04:17 UTC</sub>
+<sub>Snapshot 2026-11-20 08:16 UTC</sub>
 
 </div>
 
@@ -50,11 +50,14 @@ For software engineers, IT specialists, and security professionals, this list is
 
 ## Open jobs
 
-**29,298 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-20 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**30,136 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-20 08:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| IT Specialist | ADP employer 9d267461 | Marrero, LA, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9d267461-9558-46b4-8365-90eed68ab100&ccId=19000101_000001&jobId=545888&lang=en_US&source=CC2) |
+| Senior Software Engineer - Postgres Engine | clickhouse | United States |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/clickhouse/220080d1-c844-42e6-a762-9f3453289ac1) |
+| Senior Engineering Manager, Storage | Airbnb | USA |  | 2026-11-20 | [Apply](https://careers.airbnb.com/positions/8374427?gh_jid=8374427) |
 | Software Engineer | cisco | 14 Locations |  | 2026-11-20 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer_2030430) |
 | (USA) Staff, Software Engineer | Walmart | (USA) J STREET OFFICE SPACE AR BENTONVILLE Home Office |  | 2026-11-20 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-J-STREET-OFFICE-SPACE-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Staff--Software-Engineer_R-2623067-1) |
 | Staff Software Engineer | ServiceNow | Santa Clara, California, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162621689) |
@@ -92,12 +95,19 @@ For software engineers, IT specialists, and security professionals, this list is
 | Staff Software Engineer | Walmart | Sunnyvale, CA |  | 2026-11-20 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Staff-Software-Engineer_R-2709822-1) |
 | Information Security Associate - CSIRT | Salesforce | Washington - Bellevue |  | 2026-11-20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Information-Security-Associate---CSIRT_JR368490) |
 | Software Engineer Infrastructure and Distributed Systems | Salesforce | California - San Francisco |  | 2026-11-20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer-Infrastructure-and-Distributed-Systems_JR368687) |
+| Applications Development Senior Developer (Java / Microservices) | Citi | Irving Texas United States |  | 2026-11-20 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Applications-Development-Senior-Developer---Java---Microservices-_261006466-1) |
+| Applications Development Sr Programmer Analyst - Assistant Vice President | Citi | 2 Locations |  | 2026-11-20 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Applications-Development-Sr-Programmer-Analyst---Assistant-Vice-President_261008701) |
 | Associate Technical Developer, Owned Brands - Intimates/Sleep | Target | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |  | 2026-11-20 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Technical-Developer--Owned-Brands---Intimates-Sleep_R0000481357) |
+| Staff Software Engineer | PayPal | 2 Locations |  | 2026-11-20 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0139044-1) |
+| IT Support Desk Technician I | Heartland Business Systems, LLC | Wausau, WI |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) |
+| IT Support Desk Technician II | Heartland Business Systems, LLC | Brookfield, WI |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680756) |
+| Software Engineer / Computer Programmer | EHS TECHNOLOGIES CORPORATION | Philadelphia, PA |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679888) |
+| Lead Software Engineer | Valsoft Corporation | Indianapolis, Indiana, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/19B476A401) |
+| Security Analyst/Technical Support Analyst 3 | TOMORROW HIRE | Richmond, Virginia, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/61F9B08419) |
+| Senior Software Engineer, Agentic AI | NVIDIA | 6 Locations |  | 2026-11-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Agentic-AI_JR2017340) |
+| GPU Firmware Engineer | NVIDIA | US, CA, Santa Clara |  | 2026-11-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Firmware-Engineer_JR2028650) |
+| Principal Associate, Cyber Security (Mainframe) | Capital One | 2 Locations |  | 2026-11-19 | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Cyber-Security--Mainframe-_R1006175-1) |
 | Security Analyst-FT | NCMH External Candidates | Newberry, SC |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4677807) |
-| Software Engineer - Serko.ai | Serko Ltd | Seattle, Washington, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/31126E0FDD) |
-| Senior Staff Software Engineer | SciTec | Beavercreek, Ohio, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/67EAF7E4D7) |
-| Journeyman Server and Computer Systems Administrator | Saalex | Ridgecrest, California, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/4279001DD1) |
-| Security Engineer Lead - Security Operations | SteerBridge | Vienna, VA |  | 2026-11-19 | [Apply](https://jobs.lever.co/steerbridge/30f0e913-2ad9-4836-9f0d-696b64ef36f5) |
 | Information Security Engineer | zscaler | USA - Update Location |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5302790007) |
 | Senior Software Engineer | roku | San Jose, California |  | 2026-11-19 | [Apply](https://www.weareroku.com/jobs/8404548?gh_jid=8404548) |
 | Senior HPC Platform Engineer | panthalassa | Portland, OR |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/panthalassa/jobs/6267027004) |
@@ -177,6 +187,15 @@ For software engineers, IT specialists, and security professionals, this list is
 | Software Engineering Senior Advisor, Forward Deployed Engineering (FDE) | cigna | New York, NY |  | 2026-11-19 | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/New-York-NY/Software-Engineering-Senior-Advisor--Forward-Deployed-Engineering--FDE-_26014103) |
 | Cybersecurity - Senior Information System Security Manager (ISSM) | boeing | USA - Seal Beach, CA |  | 2026-11-19 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seal-Beach-CA/Cybersecurity---Senior-Information-System-Security-Manager--ISSM-_JR2026529504-2) |
 | (USA) Software Engineer II | Walmart | (USA) Crossman Respect Building CA SUNNYVALE Home Office |  | 2026-11-19 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-II_R-2702168-1) |
+| Full Stack Java/React Developer - Vice President | Citi | Tampa Florida United States |  | 2026-11-19 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Full-Stack-Java-React-Developer---Vice-President_261009187) |
+| System Software Engineer - Autonomous Vehicles | NVIDIA | US, CA, Santa Clara |  | 2026-11-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Autonomous-Vehicles_JR2028901) |
+| Cybersecurity Technologist: Cyber Readiness Practitioner | Travelers | 3 Locations |  | 2026-11-19 | [Apply](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Cybersecurity-Technologist--Cyber-Readiness-Practitioner_R-53720) |
+| Senior GPU Performance Software Engineer | Intel | 2 Locations |  | 2026-11-19 | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-GPU-Performance-Software-Engineer_JR0286580) |
+| Sr. Software Engineer (API & Microservices) | U.S. Bank | Atlanta, GA |  | 2026-11-19 | [Apply](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Atlanta-GA/Sr-Software-Engineer--API---Microservices-_2026-0035385) |
+| Software Engineer 2 (TravelBank) | U.S. Bank | 2 Locations |  | 2026-11-19 | [Apply](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Irving-TX/Software-Engineer-2--TravelBank-_2026-0035789-1) |
+| Principal Engineer 1 - Full Stack & Cloud Architecture | U.S. Bank | 2 Locations |  | 2026-11-19 | [Apply](https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Irving-TX/Principal-Engineer-1---Full-Stack---Cloud-Architecture_2026-0035942) |
+| Senior Fullstack Engineer, Finance Technology | PayPal | 2 Locations |  | 2026-11-19 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Senior-Fullstack-Engineer--Finance-Technology_R0138248) |
+| Manager, Software Engineering | PayPal | 2 Locations |  | 2026-11-19 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--Software-Engineering_R0134187-1) |
 | Senior Full Stack Engineer - Agentic AI Platform | CVS Health | NY - Work from hom |  | 2026-11-19 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Full-Stack-Engineer--Agentic-AI-Platform_R1047405) |
 | Senior Full Stack Engineer | CVS Health | Work At Home-Texas |  | 2026-11-19 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Texas/Senior-Full-Stack-Engineer_R1097085) |
 | Senior Director, Software Engineering - AI | Capital One | Plano, TX |  | 2026-11-19 | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Director--Software-Engineering---AI_R1006085-1) |
@@ -186,25 +205,6 @@ For software engineers, IT specialists, and security professionals, this list is
 | Technical Support Engineer (Rotating Equipment) | Smiths Group | Salt Lake City, UT, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000162568159) |
 | IT Support & Automation Specialist -HB | SBT Global | Huntington Beach, CA, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/SBTGlobalInc/3743990016972586) |
 | Software Engineer I | trinitylogistics | Remote |  | 2026-11-19 | [Apply](https://trinitylogistics.com/join-us/job/?gh_jid=8933277002) |
-| Senior Software Engineer - Pacing & Experimentation | thetradedesk | New York |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5294061007) |
-| Staff Software Engineer | stackadapt | Canada; United States |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/stackadapt/jobs/4509177009) |
-| Senior Software Engineer Financial Services | PlayStation Global | United States, San Diego, CA |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6254198004) |
-| Enterprise Cybersecurity Risk & Governance Specialist | skyepointdecisionsinc | Remote |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/skyepointdecisionsinc/jobs/4515029009) |
-| Cybersecurity Compliance & Incident Response Specialist | skyepointdecisionsinc | Remote |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/skyepointdecisionsinc/jobs/4514949009) |
-| Software Developer II | National Vision | Alpharetta, GA, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000162594147) |
-| Senior Software Engineer - Data Infrastructure Safety | Roblox | San Mateo, CA, United States |  | 2026-11-19 | [Apply](https://careers.roblox.com/jobs/8287516?gh_jid=8287516) |
-| Staff Software Engineer, Data and ML | Relativity Space | Long Beach, California, United States |  | 2026-11-19 | [Apply](https://boards.greenhouse.io/relativity/jobs/8950791002?gh_jid=8950791002) |
-| Senior Software Engineer, Data and ML | Relativity Space | Long Beach, California, United States |  | 2026-11-19 | [Apply](https://boards.greenhouse.io/relativity/jobs/8950711002?gh_jid=8950711002) |
-| Senior Robotics Software Engineer, Grinding | Relativity Space | Long Beach, California, United States |  | 2026-11-19 | [Apply](https://boards.greenhouse.io/relativity/jobs/8950645002?gh_jid=8950645002) |
-| Software Engineer | paretocaptiveservicesllc | Remote |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4730777006) |
-| Sr Customer Qualification Engineer - 2302 | Kioxia | Folsom, CA, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/Kioxia/744000162586339) |
-| Staff Customer Qualification Engineer - 2303 | Kioxia | Folsom, CA, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/Kioxia/744000162590949) |
-| Senior Software Engineer, RWD | natera | US Remote |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6263484004) |
-| Software Engineer III | natera | Austin, TX |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6250690004) |
-| Mid-Level Power Platform Developer | ignitedigital | Charleston, South Carolina, United States |  | 2026-11-19 | [Apply](https://ignite-digital.com/careers/job-listings/?gh_jid=5489464008) |
-| Platform Engineering Intern (Summer 2027) | heartflowinc | San Francisco, California |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/heartflowinc/jobs/6263395004) |
-| Security Engineer, Operational Technology- Remote (Anywhere in the U.S.) | guidepointsecurity | Remote |  | 2026-11-19 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6266326004?gh_jid=6266326004) |
-| Senior Software Engineer 814 | Freedom Technology Solutions Group | Annapolis Junction, MD |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5302135007) |
 <!-- JOBS_TABLE_END -->
 
 <details>
