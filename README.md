@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>30,015</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>29,756</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 00:16 UTC</sub>
+<sub>Snapshot 2026-11-22 04:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,14 @@ For software engineers, IT specialists, and security professionals, this list is
 
 ## Open jobs
 
-**30,015 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 00:16 UTC.** Apply links go to the employer's career page or hiring system.
+**29,756 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 04:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Senior Technical Support Engineer | dataminr | NY - Hybrid |  | 2026-11-22 | [Apply](https://dataminr.wd12.myworkdayjobs.com/en-US/dataminr/job/NY---Hybrid/Senior-Technical-Support-Engineer_JR2148) |
+| Senior C++ Software Engineer — Real‑Time Graphics (Talent Pool) | Software Mind | Washington, DC, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/SoftwareMind/744000162969935) |
+| Firmware/Embedded Software Engineer Intern - Summer 2027 | nerostechnologies | Torrance, California, United States |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) |
 | Director, Information Security and GRC | lpc | Dallas, TX |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/lpc/jobs/5306188007) |
 | Bitcoin Security Engineer | MicroStrategy | Tysons Corner, VIRGINIA, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000162962849) |
 | Bitcoin Security Engineer | MicroStrategy | Tysons Corner, VIRGINIA, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000162960679) |
@@ -110,9 +113,10 @@ For software engineers, IT specialists, and security professionals, this list is
 | Lead Cybersecurity Engineer - Identity Access Management | Target | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 |  | 2026-11-21 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Cybersecurity-Engineer---Identity-Access-Management_R0000481248-1) |
 | Senior Software Engineer – AI Agents & Harnesses | Travelers | 4 Locations |  | 2026-11-21 | [Apply](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Senior-Software-Engineer---AI-Agents---Harnesses_R-50865) |
 | Senior AI Identity Security Engineer | Humana | 11 Locations |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Senior-AI-Identity-Security-Engineer_R-437656) |
+| Senior Cybersecurity Consultant and Manager | KAI Partners, Inc. | Roseville, CA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/kaip/job/oss6Afwk) |
+| Python Developer | neurohire.ai | US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/D9A059DF68) |
 | Infrastructure & Security Engineer | Lathrop GPM | Minneapolis, MN; Kansas City, MO |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4677590) |
 | Systems Administrator | PT&C Group LLC | Holladay, UT |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668743) |
-| Web Developer | ADP employer 3090cb32 | University Student Union, Long Beach, CA, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3090cb32-5fca-4594-bd5a-4c8997024d3b&ccId=19000101_000001&jobId=634997&lang=en_US&source=CC2) |
 | Lead BAS Programmer | MODERNCONTROLS LLC. | New Castle, DE |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4671432) |
 | SOC Analyst I | (Do Not Use) Xtreme Solutions Inc | Atlanta, GA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682524) |
 | Senior Manager, Software Engineering | NVIDIA | 3 Locations |  | 2026-11-20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Software-Engineering_JR2030268) |
@@ -129,14 +133,11 @@ For software engineers, IT specialists, and security professionals, this list is
 | Drupal Developer | Tanaq Management Services LLC |  |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682762) |
 | Early Software Engineer (AI-Native) | Multiply | San Francisco |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/multiplyai/5b30aa69-b2a6-480b-b5b9-3ad5d67f1a55) |
 | IT Support Technician | Sunflower Bank, N.A. | Salina, KS |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683999) |
-| Staff Software Engineer, Research Platform | xcimer | Denver, CO |  | 2026-11-20 | [Apply](https://jobs.lever.co/xcimer/e0ff50d5-4bae-4f08-babd-e5b4933901e0) |
-| Software Engineer, Automated Driving Vehicle Platform | woven-by-toyota | Ann Arbor, MI |  | 2026-11-20 | [Apply](https://jobs.lever.co/woven-by-toyota/4e4a9515-5470-4219-9ae5-45a79ba92b49) |
 | Senior Embedded Engineer - Intercom | Verkada | San Mateo, CA United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5304458007) |
 | Security Operations Analyst | SpaceX | Bastrop, TX |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/spacex/jobs/8955902002?gh_jid=8955902002) |
 | Principal Software Security Engineer | Rocket Lab Corporation | Littleton, CO |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8213446003) |
 | Principal Software Security Engineer | Rocket Lab Corporation | Long Beach, CA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8202734003) |
 | Senior Security Engineer | Planet | United States, Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/planetlabs/jobs/8350905) |
-| Senior Infrastructure Software Engineer (Austin, TX) | exowatt | Austin, TX |  | 2026-11-20 | [Apply](https://jobs.lever.co/exowatt/c73df83c-943e-4864-a0a9-aac823d9d72b) |
 | Senior Cloud Systems Administrator | denverbroncosteamllc | Englewood, CO |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/denverbroncosteamllc/jobs/5491572008) |
 | Staff Software Engineer | coupang | Seattle, USA |  | 2026-11-20 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8376965) |
 | Software Engineer, Data Infrastructure (C++) | botauto | Houston, TX |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5491569008) |
@@ -204,7 +205,6 @@ For software engineers, IT specialists, and security professionals, this list is
 | Entry-Level Software Engineer–Developer | boeing | USA - Richardson, TX |  | 2026-11-20 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1) |
 | Engineer-Security Engineering | verizon | New York, New York |  | 2026-11-20 | [Apply](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/New-York-New-York/Engineer-Security-Engineering_R-1104233) |
 | Senior Full Stack Java Lead | Citi | Tampa Florida United States |  | 2026-11-20 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Senior-Full-Stack-Java-Lead_261007243-1) |
-| Python/AI Developer | Citi | Tampa Florida United States |  | 2026-11-20 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Python-AI-Developer_261006175) |
 <!-- JOBS_TABLE_END -->
 
 <details>
