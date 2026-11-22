@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>29,756</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>30,038</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 04:17 UTC</sub>
+<sub>Snapshot 2026-11-22 08:17 UTC</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ For software engineers, IT specialists, and security professionals, this list is
 
 ## Open jobs
 
-**29,756 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**30,038 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 08:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
@@ -68,6 +68,7 @@ For software engineers, IT specialists, and security professionals, this list is
 | Software Engineer – India ComSec (NCCS) Hybrid | cisco | RTP, North Carolina, US |  | 2026-11-21 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer---India-ComSec--NCCS--Hybrid_2029692-1) |
 | (USA) Principal, Software Engineer | Walmart | 2 Locations |  | 2026-11-21 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Integrity-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Principal--Software-Engineer_R-2587452-1) |
 | Bitcoin Security Engineer | MicroStrategy | Tysons Corner, VIRGINIA, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000162956610) |
+| Director, Security Engineering | lyrahealth | United States |  | 2026-11-21 | [Apply](https://jobs.lever.co/lyrahealth/a5d2473e-6975-4603-9c82-722a906b5778) |
 | SECURITY ANALYST | City of New York | Brooklyn, NY, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017021806) |
 | Senior Developer (Per-Diem) | City of New York | New York City, NY, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017021846) |
 | Staff Platform Engineer | playlab | Remote |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/Playlab/a91ee3c2-0379-4c2c-8fd8-a42b9dbbf312) |
@@ -114,7 +115,6 @@ For software engineers, IT specialists, and security professionals, this list is
 | Senior Software Engineer – AI Agents & Harnesses | Travelers | 4 Locations |  | 2026-11-21 | [Apply](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Senior-Software-Engineer---AI-Agents---Harnesses_R-50865) |
 | Senior AI Identity Security Engineer | Humana | 11 Locations |  | 2026-11-21 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Senior-AI-Identity-Security-Engineer_R-437656) |
 | Senior Cybersecurity Consultant and Manager | KAI Partners, Inc. | Roseville, CA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/kaip/job/oss6Afwk) |
-| Python Developer | neurohire.ai | US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/D9A059DF68) |
 | Infrastructure & Security Engineer | Lathrop GPM | Minneapolis, MN; Kansas City, MO |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4677590) |
 | Systems Administrator | PT&C Group LLC | Holladay, UT |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668743) |
 | Lead BAS Programmer | MODERNCONTROLS LLC. | New Castle, DE |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4671432) |
