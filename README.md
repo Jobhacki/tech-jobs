@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>29,938</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>30,056</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-23 00:17 UTC</sub>
+<sub>Snapshot 2026-11-23 04:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,12 @@ For software engineers, IT specialists, and security professionals, this list is
 
 ## Open jobs
 
-**29,938 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 00:17 UTC.** Apply links go to the employer's career page or hiring system.
+**30,056 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 04:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Director, Data Platform Engineering | Domino's | Ann Arbor, MI, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163126634) |
 | Technical Scrum Master (Infrastructure & Cybersecurity) | accenturefederalservices | Washington, DC |  | 2026-11-22 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4731468006?gh_jid=4731468006) |
 | Senior Application Security Engineer | chrobinson | Minnesota Remote |  | 2026-11-22 | [Apply](https://chrobinson.wd5.myworkdayjobs.com/en-US/chrobinson/job/Minnesota-Remote/Senior-Application-Security-Engineer_R50142) |
 | Principal Software Engineer - Scaled Manufacturing, Core Infrastructure | Oracle | Santa Clara, CA, United States |  | 2026-11-22 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351103) |
@@ -75,6 +76,7 @@ For software engineers, IT specialists, and security professionals, this list is
 | Software Engineer – India ComSec (NCCS) Hybrid | cisco | RTP, North Carolina, US |  | 2026-11-21 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer---India-ComSec--NCCS--Hybrid_2029692-1) |
 | (USA) Principal, Software Engineer | Walmart | 2 Locations |  | 2026-11-21 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Integrity-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Principal--Software-Engineer_R-2587452-1) |
 | Bitcoin Security Engineer | MicroStrategy | Tysons Corner, VIRGINIA, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/MicroStrategy1/744000162956610) |
+| Director, Security Engineering | lyrahealth | United States |  | 2026-11-21 | [Apply](https://jobs.lever.co/lyrahealth/a5d2473e-6975-4603-9c82-722a906b5778) |
 | SECURITY ANALYST | City of New York | Brooklyn, NY, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017021806) |
 | Senior Developer (Per-Diem) | City of New York | New York City, NY, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017021846) |
 | Staff Platform Engineer | playlab | Remote |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/Playlab/a91ee3c2-0379-4c2c-8fd8-a42b9dbbf312) |
@@ -149,6 +151,8 @@ For software engineers, IT specialists, and security professionals, this list is
 | Senior Cloud Systems Administrator | denverbroncosteamllc | Englewood, CO |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/denverbroncosteamllc/jobs/5491572008) |
 | Staff Software Engineer | coupang | Seattle, USA |  | 2026-11-20 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8376965) |
 | Software Engineer, Data Infrastructure (C++) | botauto | Houston, TX |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5491569008) |
+| Senior Embedded Software Engineer | CesiumAstro | El Segundo, CA |  | 2026-11-20 | [Apply](https://jobs.lever.co/CesiumAstro/a86bb166-c9a1-4954-bf27-575d502a9163) |
+| Senior Cybersecurity Engineer – Key Provisioning | CesiumAstro | Westminster, CO |  | 2026-11-20 | [Apply](https://jobs.lever.co/CesiumAstro/f050e22b-1ec4-45b9-a45d-dc6b520d58e5) |
 | Software Engineer I, Backend (Streaming Infra) | Affirm | Remote US |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8201469003) |
 | Technical Support Analyst | Centegix | Atlanta, GA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4657769) |
 | Mobile Engineer | VeoliaEnvironnementSA | San Francisco, CA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162818260) |
@@ -201,10 +205,6 @@ For software engineers, IT specialists, and security professionals, this list is
 | Vice President, Cybersecurity Operations | ci | US-TX-Austin-500 W 2nd-1900 |  | 2026-11-20 | [Apply](https://ci.wd3.myworkdayjobs.com/en-US/corient_external_career-site/job/US-TX-Austin-500-W-2nd-1900/Vice-President--Cybersecurity-Operations_JR6682) |
 | Senior Software Engineer - (Python, Typescript, Vue 3 or Go (Golang) - Hybrid | factset | 2 Locations |  | 2026-11-20 | [Apply](https://factset.wd108.myworkdayjobs.com/en-US/factsetcareers/job/New-York-NY-USA/Senior-Software-Engineer----Python--Typescript--Vue-3-or-Go--Golang----Hybrid_R33494) |
 | Sr. Platform Engineer | baldwin | Tampa, Florida, US |  | 2026-11-20 | [Apply](https://baldwin.wd1.myworkdayjobs.com/en-US/baldwin/job/Tampa-Florida-US/Sr-Platform-Engineer_JR110540) |
-| Software Engineer | towerloan | Flowood MS |  | 2026-11-20 | [Apply](https://towerloan.wd12.myworkdayjobs.com/en-US/tower_loan_careers/job/Flowood-MS/Software-Engineer_JR2437-1) |
-| Senior Software Engineer – Full Stack | toyota | Plano, Texas |  | 2026-11-20 | [Apply](https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/Senior-Software-Engineer---Full-Stack_10340718-1) |
-| Cybersecurity Solutions Manager | aep | 2 Locations |  | 2026-11-20 | [Apply](https://aep.wd1.myworkdayjobs.com/en-US/aepcareersite/job/Columbus-OH/Security-Solutions-Manager_R20955) |
-| Retail Back End Department Head | pgatoursuperstore | Vernon Hills, IL |  | 2026-11-20 | [Apply](https://pgatoursuperstore.wd12.myworkdayjobs.com/en-US/pgat_ss/job/Vernon-Hills-IL/Retail-Back-End-Department-Head_JR8154-1) |
 <!-- JOBS_TABLE_END -->
 
 <details>
