@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>30,261</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>30,190</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-24 04:18 UTC</sub>
+<sub>Snapshot 2026-11-24 08:17 UTC</sub>
 
 </div>
 
@@ -50,12 +50,17 @@ For software engineers, IT specialists, and security professionals, this list is
 
 ## Open jobs
 
-**30,261 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 04:18 UTC.** Apply links go to the employer's career page or hiring system.
+**30,190 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 08:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Health IT Support | ADP employer 0528a983 | Dowagiac, MI, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0528a983-eff0-40d1-9539-1ae4fdee6aff&ccId=19000101_000001&jobId=577938&lang=en_US&source=CC2) |
+| Engineering Manager, Windows Kernel Development – Cybersecurity | acronis | 7 Locations |  | 2026-11-24 | [Apply](https://acronis.wd502.myworkdayjobs.com/en-US/acronis_careers/job/Florida-USA---Remote/Engineering-Manager--Windows-Kernel-Development---Cybersecurity_R-101411-1) |
+| Salesforce Senior Developer - GMS | americanredcross | 8 Locations |  | 2026-11-24 | [Apply](https://americanredcross.wd1.myworkdayjobs.com/en-US/american_red_cross_careers/job/Statewide-DC/Salesforce-Senior-Developer----GMS_RC92662) |
+| Digital Technology Experienced Professional - Software Engineering | bakerhughes | IN-MH-MUMBAI-HIRANANDANI BUSINESS PARK POWAI |  | 2026-11-24 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Digital-Technology-Experienced-Professional---Software-Engineering_R169521) |
+| Senior Data Platform Engineer | Minerva | New York City |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/minerva/739ad102-9ba9-42ad-8524-286bcc9b2144) |
+| Data Platform Engineer, Observability | Minerva | New York City |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/minerva/8d819b13-b714-44cf-b4cf-a7d23af76a91) |
+| Hardware/Production Test Software Engineer | Astranis | San Francisco, CA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4731856006) |
 | Full Stack Software Developer | bah | 2 Locations |  | 2026-11-24 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Hampton-VA/Full-Stack-Software-Developer_R0242627) |
 | (USA) Group Director, Software Engineering | Walmart | (USA) Crossman Excellence Building CA SUNNYVALE Home Office |  | 2026-11-24 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Group-Director--Software-Engineering_R-2690374-1) |
 | Sr Cybersecurity Engineer | Workday | 3 Locations |  | 2026-11-24 | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Sr-Cybersecurity-Engineer_JR-0111719-1) |
@@ -88,14 +93,14 @@ For software engineers, IT specialists, and security professionals, this list is
 | Senior Software Engineer | Intel | 2 Locations |  | 2026-11-24 | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Senior-Software-Engineer_JR0289456-1) |
 | Senior Software Engineer | Intel | 2 Locations |  | 2026-11-24 | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-Software-Engineer_JR0289454) |
 | Software Engineer - Personalization | CVS Health | 49 Locations |  | 2026-11-24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Software-Engineer---Personalization_R1102069) |
+| IT Support Technician | WNB Financial NA | Winona, MN |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683998) |
+| Expert Software Engineer, Data Management | The Bison Group | Springfield, VA |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686290) |
+| Senior Software Developer, Data Visualization | The Bison Group | Springfield, VA |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686323) |
+| Journeyman Software Developer, Access Control | The Bison Group | Springfield, VA |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686348) |
+| Senior Cloud Security Engineer (Remote US) | smiledigitalhealth | Remote US |  | 2026-11-23 | [Apply](https://jobs.lever.co/smiledigitalhealth/aac48554-beb8-42f8-bcdd-5cc75134a4d0) |
 | Senior Web Developer | Navari | Remote Worker - N/A |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4687608) |
-| Security Operations Engineer | Samsung SDS America | San Jose, US |  | 2026-11-23 | [Apply](https://apply.workable.com/j/25138CB77A) |
-| Web Developer | redhorsecorp | Washington, DC |  | 2026-11-23 | [Apply](https://jobs.lever.co/redhorsecorp/35b8d11f-837c-4f39-b103-1a389929df92) |
-| Software Developer | redhorsecorp | Washington, DC |  | 2026-11-23 | [Apply](https://jobs.lever.co/redhorsecorp/787dd254-5107-4dfd-940a-d5af7dac95e8) |
 | Sr. Staff Software Engineer - Delivery Retrieval Infrastructure | Pinterest | San Francisco, CA, US; Palo Alto, CA, US |  | 2026-11-23 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8244282) |
 | Senior Python Developer - Systematic Applied AI | Man Group | Boston; Massachusetts |  | 2026-11-23 | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/5044651101) |
-| Senior SOC Analyst | pditechnologies | Remote US |  | 2026-11-23 | [Apply](https://jobs.lever.co/pditechnologies/c6e42ee2-73b2-45a3-8548-981c470fc460) |
-| Business Systems Developer III | pditechnologies | Alpharetta, GA |  | 2026-11-23 | [Apply](https://jobs.lever.co/pditechnologies/2a51b175-e2b2-4cc4-aa92-d7bd8c5aa7aa) |
 | Staff Software Engineer, Agent and Partner Experiences | Gusto, Inc. | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8394504) |
 | Front-End Software Developer - TS/SCI | Xcelerate Solutions | Bethesda, MD, United States |  | 2026-11-23 | [Apply](https://jobs.jobvite.com/xceleratesolutions/job/onr8Afwg) |
 | Staff Software Engineer | Weave | San Francisco Bay Area, CA |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/weave/jobs/4469086009) |
@@ -200,11 +205,6 @@ For software engineers, IT specialists, and security professionals, this list is
 | Software Engineering Intern | Oscar Health | New York, New York, United States |  | 2026-11-23 | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8407472) |
 | Senior .NET Software Developer | orioninnovation | Richmond, VA |  | 2026-11-23 | [Apply](https://www.orioninc.com/careers/job/?gh_jid=4731628006) |
 | Senior Software Engineer, Atlas Clusters Platform | MongoDB | New York City |  | 2026-11-23 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8406252) |
-| PATTERN DESIGN/PROGRAMMER - 3rd Shift | maxcessinternational | Eureka, Missouri, United States |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/maxcessinternational/jobs/5492892008) |
-| Senior Director, MS Ad Tech & Platform Engineering | lgelectronics | Santa Clara, CA |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/lgelectronics/jobs/5490047008) |
-| Associate Software Engineer | Koddi | Fort Worth, Texas |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/koddi/jobs/8944769002) |
-| Associate Security Engineer | Koddi | Fort Worth, Texas |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/koddi/jobs/8944767002) |
-| Associate Platform Engineer | Koddi | Fort Worth, Texas |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/koddi/jobs/8944760002) |
 <!-- JOBS_TABLE_END -->
 
 <details>
