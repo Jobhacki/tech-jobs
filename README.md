@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>31,156</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>31,274</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 12:18 UTC</sub>
+<sub>Snapshot 2026-11-26 16:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,13 @@ For software engineers, IT specialists, and security professionals, this list is
 
 ## Open jobs
 
-**31,156 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 12:18 UTC.** Apply links go to the employer's career page or hiring system.
+**31,274 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 16:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Staff Software Engineer - Bid Shading Team | liftoff | North America (Remote) |  | 2026-11-26 | [Apply](https://liftoff.io/job/8418259?gh_jid=8418259) |
+| Software Engineer, Node | matter-labs | United States |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/matter-labs/23235c26-230f-42fe-a538-1a82dc18ca92) |
 | Senior Software Engineer | Pearson | NC, United States |  | 2026-11-26 | [Apply](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/24929) |
 | Java Full Stack Engineer - Professional | HEXAWARE | United States |  | 2026-11-26 | [Apply](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/704699) |
 | Senior Web Developer / Alpharetta GA, Sunnyvale CA, BH NJ and Frisco Tx | Photon | United States |  | 2026-11-26 | [Apply](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/27102) |
@@ -85,15 +87,14 @@ For software engineers, IT specialists, and security professionals, this list is
 | Senior System Software Engineer - AV Platform | NVIDIA | US, CA, Santa Clara |  | 2026-11-26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2030679) |
 | Software Engineer, Salesforce | Humana | 4 Locations |  | 2026-11-26 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Software-Engineer--Salesforce_R-438497-1) |
 | Big Data Software Engineer | Humana | 4 Locations |  | 2026-11-26 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Big-Data-Software-Engineer_R-436474) |
+| Systems Administrator | Thrive | US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/B3BAF1D9ED) |
+| Security Engineer - Mid (R-00277) | truezerotech | Washington DC |  | 2026-11-25 | [Apply](https://jobs.lever.co/truezerotech/7eb14145-7999-4eae-b9b0-924f29655d67) |
 | Chief Information Security Officer | Commonwealth of Massachusetts | Milford, MA, US |  | 2026-11-25 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600088N&lang=en) |
 | Lead Software Engineer | Northwell Health | Melville, Suffolk, United States |  | 2026-11-25 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/190684) |
 | SAP Security Engineer, Ford Energy | Ford Motor Company | Dearborn, MI, United States |  | 2026-11-25 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74883) |
 | Senior Staff Product Cybersecurity Engineer – In Vehicle Infotainment | Ford Motor Company | Palo Alto, CA, United States |  | 2026-11-25 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74620) |
 | Staff Software Engineer - IVI Camera Software | Ford Motor Company | Dearborn, MI, United States |  | 2026-11-25 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74453) |
 | Platform Software Engineer 2 | Oracle | Kansas City, MO, United States |  | 2026-11-25 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351580) |
-| Data Warehouse Programmer/Analyst | ADP employer 040dd111 | Carson City, NV, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=040dd111-4533-49bd-a969-c5a896ca077b&ccId=19000101_000001&jobId=593552&lang=en_US&source=CC2) |
-| Senior Technical Lead Developer | Stafford Gray | Lansing, Michigan, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/27D8ADDF21) |
-| Senior Backend Software Engineer - AI | Seeq | US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/3AD75A3E94) |
 | Full Stack Cloud Developer (AI/ML Integration) | Tanaq Technical Services LLC | United States |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694327) |
 | Systems Administrator Intern | Quality Vision International Inc. | Rochester, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694546) |
 | Sr. Software Engineer, Low Latency Computing (Starlink) | SpaceX | Redmond, WA |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/spacex/jobs/8962799002?gh_jid=8962799002) |
@@ -179,6 +180,7 @@ For software engineers, IT specialists, and security professionals, this list is
 | Software Engineer (Atlassian Platform Support) | NBCUniversal | New York, NEW YORK, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163743261) |
 | Senior Software Engineer, Applied AI | Klaviyo | Boston, MA |  | 2026-11-25 | [Apply](https://www.klaviyo.com/careers/jobs/8215593003?gh_jid=8215593003) |
 | Software Engineer | jjsnackfoods | TN - La Vergne |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/jjsnackfoods/jobs/5492097008) |
+| Cybersecurity Analyst | uvcyber | Portland, OR | $75k-80k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/uvcyber/26da3562-f84c-4f5c-b20c-7cd2f0f88b30) |
 | Service Desk Level 1 Analyst | dyopath | Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/dyopath/jobs/4731996006) |
 | Senior Software Engineer, Global Trading Operations (Clojure) | DRW | Chicago |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8417238) |
 | Principal Software Engineer - Core | dropzoneai | Remote - US |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/dropzoneai/jobs/4518977009) |
@@ -203,8 +205,6 @@ For software engineers, IT specialists, and security professionals, this list is
 | Power Platform Programmer Regulatory Data and Automation | aep | 2 Locations |  | 2026-11-25 | [Apply](https://aep.wd1.myworkdayjobs.com/en-US/aepcareersite/job/Columbus-OH/Power-Platform-Programmer-Regulatory-Data-and-Automation_R21235) |
 | Senior Application and Product Security Engineer | zoll | 2 Locations |  | 2026-11-25 | [Apply](https://zoll.wd5.myworkdayjobs.com/en-US/zollmedicalcorp/job/Chelmsford-MA/Senior-Application-and-Product-Security-Engineer_R20868-1) |
 | Retail Back End Department Head | pgatoursuperstore | East Hanover, NJ |  | 2026-11-25 | [Apply](https://pgatoursuperstore.wd12.myworkdayjobs.com/en-US/pgat_ss/job/East-Hanover-NJ/Retail-Back-End-Department-Head_JR8174-1) |
-| Senior CNO Developer (TS/SCI with Polypgraph) | avav | 2 Locations |  | 2026-11-25 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Annapolis-Junction-MD/Senior-CNO-Developer--TS-SCI-with-Polypgraph-_9481) |
-| Frontend Team Lead - FT | basspro | Louisville, KY |  | 2026-11-25 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Louisville-KY/Frontend-Team-Lead---FT_R273339) |
 <!-- JOBS_TABLE_END -->
 
 <details>
