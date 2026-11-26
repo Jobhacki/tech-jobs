@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>31,167</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>31,442</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 04:17 UTC</sub>
+<sub>Snapshot 2026-11-26 08:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,22 @@ For software engineers, IT specialists, and security professionals, this list is
 
 ## Open jobs
 
-**31,167 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**31,442 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 08:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Staff Software Engineer | Raydar | Watertown, Massachusetts, US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/C0B134473B) |
+| Robotics Software Developer | Raydar | Watertown, Massachusetts, US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/09425360EC) |
+| Full-Stack Software Engineer | Raydar | San Francisco, California, US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/C5B14BACAC) |
+| Senior Product Software Engineer (AI-enabled products and automation) – Hybrid... | wk | USA - Coppell, TX |  | 2026-11-26 | [Apply](https://wk.wd3.myworkdayjobs.com/en-US/external/job/USA---Coppell-TX/Senior-Product-Software-Engineer--AI-enabled-products-and-automation----Hybrid--USA-TX--R0060752_R0060752-1) |
+| Senior Product Software Engineer (AI-enabled products and automation) – Hybrid... | wk | USA - Coppell, TX |  | 2026-11-26 | [Apply](https://wk.wd3.myworkdayjobs.com/en-US/external/job/USA---Coppell-TX/Senior-Product-Software-Engineer--AI-enabled-products-and-automation----Hybrid--USA-TX--R0060745_R0060745) |
+| Principal Cybersecurity | att | Charlotte, North Carolina |  | 2026-11-26 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Charlotte-North-Carolina/Principal-Cybersecurity_R-129216) |
+| Principal Cybersecurity | att | Charlotte, North Carolina |  | 2026-11-26 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Charlotte-North-Carolina/Principal-Cybersecurity_R-124660) |
+| Lead Software Engineering | att | Alpharetta, Georgia |  | 2026-11-26 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Alpharetta-Georgia/Lead-Software-Engineering_R-126266) |
+| Software Engineer | cisco | RTP, North Carolina, US |  | 2026-11-26 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer_2030720) |
+| Software Engineer | cisco | RTP, North Carolina, US |  | 2026-11-26 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer_2030715) |
+| Software Engineer | cisco | 2 Locations |  | 2026-11-26 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer_2030348) |
 | Business Solutions Developer III | centene | Remote-MO |  | 2026-11-26 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Business-Solutions-Developer-III_1655694) |
 | Mid-Level Software Engineer Manager, Phantom Works | boeing | 3 Locations |  | 2026-11-26 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Mid-Level-Software-Engineer-Manager--Phantom-Works_JR2026529754-1) |
 | Security Engineer | Speak | San Francisco | $150k-280k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/speak/72f49e30-a0bc-4081-bcfe-16bdd7181ccc) |
@@ -71,8 +82,11 @@ For software engineers, IT specialists, and security professionals, this list is
 | Senior System Software Engineer - AV Platform | NVIDIA | US, CA, Santa Clara |  | 2026-11-26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2030679) |
 | Software Engineer, Salesforce | Humana | 4 Locations |  | 2026-11-26 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Software-Engineer--Salesforce_R-438497-1) |
 | Big Data Software Engineer | Humana | 4 Locations |  | 2026-11-26 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Big-Data-Software-Engineer_R-436474) |
+| Full Stack Cloud Developer (AI/ML Integration) | Tanaq Technical Services LLC | United States |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694327) |
+| Senior Cybersecurity Auditor | redwoodcu | Napa, California |  | 2026-11-25 | [Apply](https://jobs.lever.co/redwoodcu/0f2cc935-1c70-40f6-b9f2-315be17b8417) |
+| IT Service Desk Technician | redsox | Boston, MA, United States |  | 2026-11-25 | [Apply](https://jobs.lever.co/redsox/56992ea0-978d-42ed-9287-1221c2c5bbf5) |
+| IT Service Desk Support | planettechnologies | Germantown, MD |  | 2026-11-25 | [Apply](https://jobs.lever.co/planettechnologies/f2af3973-4da8-4238-9ebc-fe4cb9ef7a78) |
 | Systems Administrator Intern | Quality Vision International Inc. | Rochester, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694546) |
-| Software Engineering Summer Intern | Best Egg | Wilmington, DE |  | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392) |
 | Sr. Software Engineer, Low Latency Computing (Starlink) | SpaceX | Redmond, WA |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/spacex/jobs/8962799002?gh_jid=8962799002) |
 | Sr. Software Engineer, Low Latency Computing (Starlink) | SpaceX | Palo Alto, CA |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/spacex/jobs/8962800002?gh_jid=8962800002) |
 | Sr. Software Engineer, High Performance Computing (Starlink) | SpaceX | Redmond, WA |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/spacex/jobs/8962786002?gh_jid=8962786002) |
@@ -120,8 +134,6 @@ For software engineers, IT specialists, and security professionals, this list is
 | Internship - Software Engineer | asml | San Diego, CA, USA |  | 2026-11-25 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship---Software-Engineer_J-00357859) |
 | Messaging Developer | dentsuaegis | USA-Remote-Colorado |  | 2026-11-25 | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/USA-Remote-Colorado/Messaging-Developer_R1136803) |
 | IT Technician I | bannerhealth | BUMC Phoenix (1111 E McDowell Rd) |  | 2026-11-25 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/BUMC-Phoenix-1111-E-McDowell-Rd/IT-Technician-I_R4458168) |
-| Leader, Software Engineering | cisco | 2 Locations |  | 2026-11-25 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Leader--Software-Engineering_2032419) |
-| Security Engineer I (Intern) - United States | cisco | RTP, North Carolina, US |  | 2026-11-25 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885) |
 | Additive Machine Programmer I (Early Career) | blueorigin | Greater Seattle Area |  | 2026-11-25 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Additive-Machine-Programmer-I--Early-Career-_R74547) |
 | Senior Product Security Analyst PM | boeing | USA - Berkeley, MO |  | 2026-11-25 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Senior-Product-Security-Analyst-PM_JR2026527681-1) |
 | Senior Product Security Engineer | boeing | USA - Berkeley, MO |  | 2026-11-25 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Senior-Product-Security-Engineer_JR2026526080-1) |
@@ -193,18 +205,6 @@ For software engineers, IT specialists, and security professionals, this list is
 | Senior Salesforce Developer | nozominetworks | United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/nozominetworks/jobs/4758661005) |
 | IT TECHNICIAN | noxgroup | Phoenix, Arizona, United States |  | 2026-11-25 | [Apply](https://noxgroup.us/careers/?gh_jid=5493145008) |
 | Senior Staff Software Engineer | nmi | Remote, US |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/nmi/jobs/5493436008) |
-| Security Platform Engineer (NYC BASED) | Equinox | New York, NY, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Equinox/744000163709109) |
-| Field IT Technician New England territory | customcomputerspecialists | Lincoln, RI |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4523587009) |
-| Lead Firmware Engineer | Boston Engineering | Waltham, MA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/BostonEngineeringCorporation/744000163698519) |
-| Senior Consultant, Cybersecurity Project Management | capco | US - New York |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/capco/jobs/8417161) |
-| Full Stack Application Developer | Arista Networks | Cary, NC, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000163713504) |
-| Cloud Platform Engineer – Kubernetes / EKS & DevOps | MegazoneCloud | United States- Remote | $100k-140k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/megazone/0be79b0c-ac1d-41e4-8277-8788c7cec6ad) |
-| Computer Programmer | Axle | Durham, NC |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/axle/jobs/5309279007) |
-| Flight Software Engineer | Anduril Industries | Atlanta, Georgia, United States |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5309020007?gh_jid=5309020007) |
-| Principal DevSecOps Engineer | ava-labs | Remote (USA) | $206.494k-258.118k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/ava-labs/a452baa2-c75e-4f21-9bc6-abcdafd10cf2) |
-| Cloud Cybersecurity Engineer | 3y-health | Remote |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/3y-health/970decb0-fec4-4f01-9f85-fda23691d201) |
-| IT Software Developer III | wfscorp | MIAMI, FL (Remote) |  | 2026-11-25 | [Apply](https://wfscorp.wd5.myworkdayjobs.com/en-US/wfscareers/job/MIAMI-FL-Remote/IT-Software-Developer-III_R23185) |
-| Planner/Works Programmer | mearsgroup | Rotherham - New York Way |  | 2026-11-25 | [Apply](https://mearsgroup.wd3.myworkdayjobs.com/en-US/external_career_site/job/Rotherham---New-York-Way/Planner-Works-Programmer_REQ0040239) |
 <!-- JOBS_TABLE_END -->
 
 <details>
