@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-tech-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-tech-jobs-light.svg"><img alt="Tech and software jobs: JobHacki job list, last updated on Nov 26, 2026" src="assets/dist/hero-tech-jobs-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-tech-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-tech-jobs-light.svg"><img alt="Tech and software jobs: JobHacki job list, last updated on Nov 27, 2026" src="assets/dist/hero-tech-jobs-dark.svg" width="100%"></picture>
 
 <a href="#open-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/btn-primary-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/btn-primary-light.svg"><img alt="See the jobs" src="assets/dist/btn-primary-dark.svg" width="340"></picture></a>
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>31,213</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>31,132</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 20:19 UTC</sub>
+<sub>Snapshot 2026-11-27 00:18 UTC</sub>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 **Hi, I'm Sophia, JobHacki's AI assistant. Pick a list, inspect a role, and follow its employer link.**
 
-For software engineers, IT specialists, and security professionals, this list is a fresh slice of tech and software jobs taken from employers' own hiring systems. Updated Nov 26, 2026.
+For software engineers, IT specialists, and security professionals, this list is a fresh slice of tech and software jobs taken from employers' own hiring systems. Updated Nov 27, 2026.
 
 [Back to all 12 lists](https://github.com/Jobhacki/jobs)
 
@@ -50,13 +50,14 @@ For software engineers, IT specialists, and security professionals, this list is
 
 ## Open jobs
 
-**31,213 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 20:19 UTC.** Apply links go to the employer's career page or hiring system.
+**31,132 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 00:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Senior/Staff Software Engineer, Security | Zipdev | US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/0B5481C17C) |
-| Federal IT Specialist (Security & Systems) | Weekday AI | US |  | 2026-11-26 | [Apply](https://apply.workable.com/j/66DC81CCD8) |
+| Principal Security Software Engineer - Identity Access Management (IAM) | Roblox | San Mateo, CA, United States |  | 2026-11-26 | [Apply](https://careers.roblox.com/jobs/8283619?gh_jid=8283619) |
+| Network Administrator (Korean Bilingual) | SBT Global | Irvine, CA, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/SBTGlobalInc/3743990017109296) |
+| Staff Software Engineer, Legal AI (SF/NYC/Chicago/Toronto) | lavendo | San Francisco | $231k-340k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/lavendo/ebd57049-1ef2-4be3-9c03-24d1fe32d5b0) |
 | Platform Engineering Manager, AWS | clio | 17 Locations |  | 2026-11-26 | [Apply](https://clio.wd3.myworkdayjobs.com/en-US/cliocareersite/job/Remote---USA/Senior-C--Developer_REQ-4797) |
 | Developer Relations | clera | Palo Alto |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Clera/8a39dc9a-7e2b-4094-b4bf-f1a39932c756) |
 | Senior Android Software Engineer | clera | San Francisco | $160k-200k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Clera/b657b03e-c9d2-4e50-8694-0d3560e893f6) |
@@ -93,7 +94,7 @@ For software engineers, IT specialists, and security professionals, this list is
 | Senior System Software Engineer - AV Platform | NVIDIA | US, CA, Santa Clara |  | 2026-11-26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2030679) |
 | Software Engineer, Salesforce | Humana | 4 Locations |  | 2026-11-26 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Software-Engineer--Salesforce_R-438497-1) |
 | Big Data Software Engineer | Humana | 4 Locations |  | 2026-11-26 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Big-Data-Software-Engineer_R-436474) |
-| Senior Edge Software Engineer | Accurant International | US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/E28441AF51) |
+| Principal Software Engineer | Veson Nautical | United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/veson/job/oz69Bfw9) |
 | Chief Information Security Officer | Commonwealth of Massachusetts | Milford, MA, US |  | 2026-11-25 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600088N&lang=en) |
 | Lead Software Engineer | Northwell Health | Melville, Suffolk, United States |  | 2026-11-25 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/190684) |
 | SAP Security Engineer, Ford Energy | Ford Motor Company | Dearborn, MI, United States |  | 2026-11-25 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74883) |
@@ -102,7 +103,6 @@ For software engineers, IT specialists, and security professionals, this list is
 | Platform Software Engineer 2 | Oracle | Kansas City, MO, United States |  | 2026-11-25 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351580) |
 | Full Stack Cloud Developer (AI/ML Integration) | Tanaq Technical Services LLC | United States |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694327) |
 | Systems Administrator Intern | Quality Vision International Inc. | Rochester, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694546) |
-| Software Engineering Summer Intern | Best Egg | Wilmington, DE |  | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392) |
 | Sr. Software Engineer, Low Latency Computing (Starlink) | SpaceX | Redmond, WA |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/spacex/jobs/8962799002?gh_jid=8962799002) |
 | Sr. Software Engineer, Low Latency Computing (Starlink) | SpaceX | Palo Alto, CA |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/spacex/jobs/8962800002?gh_jid=8962800002) |
 | Sr. Software Engineer, High Performance Computing (Starlink) | SpaceX | Redmond, WA |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/spacex/jobs/8962786002?gh_jid=8962786002) |
@@ -128,7 +128,6 @@ For software engineers, IT specialists, and security professionals, this list is
 | Early Career Software Engineer, Developer Experience | Parallel | San Francisco | $150k-300k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c) |
 | Staff Software Engineer, AI Agents | Notion | San Francisco, California |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/notion/c777ed1e-e23f-4b76-bc21-039aaf06c1de) |
 | Security Engineer | kalshi | New York Office |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/kalshi/6effc9f0-068c-4cea-a255-35fcb801b10c) |
-| System Administrator | erg | Wallops Island, VA | $59.023k-130.339k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/erg/3bf95ac0-7bd3-49d3-b17e-4163d35745bb) |
 | Senior Staff Software Engineer, Automation | crusoe | San Francisco, CA - US |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Crusoe/977f93a5-c789-44e5-b79a-1c727c5b7c26) |
 | Full Stack Engineer | civilgrid | Boston | $132.039k-201.101k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/civilgrid/8fda4773-a81f-4e96-b27e-c12c1b53a969) |
 | Senior Software Engineer | civilgrid | Boston | $148.64k-201.101k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/civilgrid/176be581-ab1f-4272-8029-8e63fcee1b88) |
@@ -205,6 +204,7 @@ For software engineers, IT specialists, and security professionals, this list is
 | Bilingual (Spanish/English) Service Desk Analyst | cai | PA-CLIENT-STATE |  | 2026-11-25 | [Apply](https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/PA-CLIENT-STATE/Bilingual--Spanish-English--Service-Desk-Analyst_R9030) |
 | AI Software Engineer Senior | asu | Off-Campus: Scottsdale |  | 2026-11-25 | [Apply](https://asu.wd1.myworkdayjobs.com/en-US/asustaffcareers/job/Off-Campus-Scottsdale/AI-Software-Engineer-Senior_JR129518) |
 | Security Engineer | omnissa | Atlanta, Georgia Office |  | 2026-11-25 | [Apply](https://omnissa.wd501.myworkdayjobs.com/en-US/omnissa_external_career_site/job/Atlanta-Georgia-Office/Security-Engineer_R-102485-1) |
+| Sr. Security Engineer | candescent | US - Georgia - Atlanta Office |  | 2026-11-25 | [Apply](https://candescent.wd501.myworkdayjobs.com/en-US/hiring/job/US---Georgia---Atlanta-Office/Sr-Security-Engineer_R0002548) |
 <!-- JOBS_TABLE_END -->
 
 <details>
