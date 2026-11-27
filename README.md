@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>31,132</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>31,164</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 00:18 UTC</sub>
+<sub>Snapshot 2026-11-27 04:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,12 @@ For software engineers, IT specialists, and security professionals, this list is
 
 ## Open jobs
 
-**31,132 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 00:18 UTC.** Apply links go to the employer's career page or hiring system.
+**31,164 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 04:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Principal Software Engineer | pointclickcare | Remote - US | $167.7k-209.6k/yr | 2026-11-26 | [Apply](https://jobs.lever.co/pointclickcare/4b3d7d51-2a0c-4447-8d74-fc659c63894f) |
 | Principal Security Software Engineer - Identity Access Management (IAM) | Roblox | San Mateo, CA, United States |  | 2026-11-26 | [Apply](https://careers.roblox.com/jobs/8283619?gh_jid=8283619) |
 | Network Administrator (Korean Bilingual) | SBT Global | Irvine, CA, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/SBTGlobalInc/3743990017109296) |
 | Staff Software Engineer, Legal AI (SF/NYC/Chicago/Toronto) | lavendo | San Francisco | $231k-340k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/lavendo/ebd57049-1ef2-4be3-9c03-24d1fe32d5b0) |
@@ -102,6 +103,9 @@ For software engineers, IT specialists, and security professionals, this list is
 | Staff Software Engineer - IVI Camera Software | Ford Motor Company | Dearborn, MI, United States |  | 2026-11-25 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74453) |
 | Platform Software Engineer 2 | Oracle | Kansas City, MO, United States |  | 2026-11-25 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351580) |
 | Full Stack Cloud Developer (AI/ML Integration) | Tanaq Technical Services LLC | United States |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694327) |
+| Senior Cybersecurity Auditor | redwoodcu | Napa, California |  | 2026-11-25 | [Apply](https://jobs.lever.co/redwoodcu/0f2cc935-1c70-40f6-b9f2-315be17b8417) |
+| IT Service Desk Technician | redsox | Boston, MA, United States |  | 2026-11-25 | [Apply](https://jobs.lever.co/redsox/56992ea0-978d-42ed-9287-1221c2c5bbf5) |
+| IT Service Desk Support | planettechnologies | Germantown, MD |  | 2026-11-25 | [Apply](https://jobs.lever.co/planettechnologies/f2af3973-4da8-4238-9ebc-fe4cb9ef7a78) |
 | Systems Administrator Intern | Quality Vision International Inc. | Rochester, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694546) |
 | Sr. Software Engineer, Low Latency Computing (Starlink) | SpaceX | Redmond, WA |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/spacex/jobs/8962799002?gh_jid=8962799002) |
 | Sr. Software Engineer, Low Latency Computing (Starlink) | SpaceX | Palo Alto, CA |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/spacex/jobs/8962800002?gh_jid=8962800002) |
@@ -201,10 +205,6 @@ For software engineers, IT specialists, and security professionals, this list is
 | IT Support Engineer (Contract) | ambiencehealthcare | San Francisco | $80-100/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/ambiencehealthcare/c383ea44-20cd-44e4-b0c7-6d23c17f1a71) |
 | Principal Software Engineer | directsupply | Remote Illinois |  | 2026-11-25 | [Apply](https://directsupply.wd501.myworkdayjobs.com/en-US/direct-supply-careers/job/Remote-Illinois/Principal-Software-Engineer_REQ-2026-2472) |
 | Sr Software Engineer | cengage | 2 Locations |  | 2026-11-25 | [Apply](https://cengage.wd5.myworkdayjobs.com/en-US/cengagenorthamericacareers/job/Ohio-USA/Sr-Software-Engineer_R2026-1356) |
-| Bilingual (Spanish/English) Service Desk Analyst | cai | PA-CLIENT-STATE |  | 2026-11-25 | [Apply](https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/PA-CLIENT-STATE/Bilingual--Spanish-English--Service-Desk-Analyst_R9030) |
-| AI Software Engineer Senior | asu | Off-Campus: Scottsdale |  | 2026-11-25 | [Apply](https://asu.wd1.myworkdayjobs.com/en-US/asustaffcareers/job/Off-Campus-Scottsdale/AI-Software-Engineer-Senior_JR129518) |
-| Security Engineer | omnissa | Atlanta, Georgia Office |  | 2026-11-25 | [Apply](https://omnissa.wd501.myworkdayjobs.com/en-US/omnissa_external_career_site/job/Atlanta-Georgia-Office/Security-Engineer_R-102485-1) |
-| Sr. Security Engineer | candescent | US - Georgia - Atlanta Office |  | 2026-11-25 | [Apply](https://candescent.wd501.myworkdayjobs.com/en-US/hiring/job/US---Georgia---Atlanta-Office/Sr-Security-Engineer_R0002548) |
 <!-- JOBS_TABLE_END -->
 
 <details>
