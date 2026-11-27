@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>30,556</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>30,902</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 08:17 UTC</sub>
+<sub>Snapshot 2026-11-27 12:17 UTC</sub>
 
 </div>
 
@@ -50,13 +50,13 @@ For software engineers, IT specialists, and security professionals, this list is
 
 ## Open jobs
 
-**30,556 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 08:17 UTC.** Apply links go to the employer's career page or hiring system.
+**30,902 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 12:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Software Developer – Applications | brambles | Santa Clara, California, USA |  | 2026-11-27 | [Apply](https://brambles.wd5.myworkdayjobs.com/en-US/brambles_careers/job/Santa-Clara-California-USA/Software-Developer---Applications_JR25540) |
 | Information Security Engineer III | candescent | IN - Bengaluru - Office |  | 2026-11-27 | [Apply](https://candescent.wd501.myworkdayjobs.com/en-US/hiring/job/IN---Bengaluru---Office/Information-Security-Engineer-III_R0002549) |
-| Senior Full Stack Developer (Remote US) | smiledigitalhealth | Remote US | $120k-130k/yr | 2026-11-26 | [Apply](https://jobs.lever.co/smiledigitalhealth/70a2d159-2203-47f6-a03f-25c50f76656b) |
 | Principal Security Software Engineer - Identity Access Management (IAM) | Roblox | San Mateo, CA, United States |  | 2026-11-26 | [Apply](https://careers.roblox.com/jobs/8283619?gh_jid=8283619) |
 | Network Administrator (Korean Bilingual) | SBT Global | Irvine, CA, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/SBTGlobalInc/3743990017109296) |
 | Staff Software Engineer, Legal AI (SF/NYC/Chicago/Toronto) | lavendo | San Francisco | $231k-340k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/lavendo/ebd57049-1ef2-4be3-9c03-24d1fe32d5b0) |
@@ -97,8 +97,8 @@ For software engineers, IT specialists, and security professionals, this list is
 | Software Engineer, Salesforce | Humana | 4 Locations |  | 2026-11-26 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Software-Engineer--Salesforce_R-438497-1) |
 | Big Data Software Engineer | Humana | 4 Locations |  | 2026-11-26 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Big-Data-Software-Engineer_R-436474) |
 | Security Operations Engineer | Davis Wright Tremaine LLP | Portland, OR, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/dwt/job/oyh9Bfwj) |
-| Software Engineering Intern | Digital Control Inc. | Kent, Washington, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/AB9A181560) |
 | Principal Software Engineer | Veson Nautical | United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/veson/job/oz69Bfw9) |
+| Security Engineer - Mid (R-00277) | truezerotech | Washington DC |  | 2026-11-25 | [Apply](https://jobs.lever.co/truezerotech/7eb14145-7999-4eae-b9b0-924f29655d67) |
 | Chief Information Security Officer | Commonwealth of Massachusetts | Milford, MA, US |  | 2026-11-25 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600088N&lang=en) |
 | Lead Software Engineer | Northwell Health | Melville, Suffolk, United States |  | 2026-11-25 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/190684) |
 | SAP Security Engineer, Ford Energy | Ford Motor Company | Dearborn, MI, United States |  | 2026-11-25 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74883) |
@@ -107,6 +107,7 @@ For software engineers, IT specialists, and security professionals, this list is
 | Platform Software Engineer 2 | Oracle | Kansas City, MO, United States |  | 2026-11-25 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351580) |
 | Full Stack Cloud Developer (AI/ML Integration) | Tanaq Technical Services LLC | United States |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694327) |
 | Systems Administrator Intern | Quality Vision International Inc. | Rochester, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694546) |
+| Software Engineering Summer Intern | Best Egg | Wilmington, DE |  | 2026-11-25 | [Apply](https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392) |
 | Sr. Software Engineer, Low Latency Computing (Starlink) | SpaceX | Redmond, WA |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/spacex/jobs/8962799002?gh_jid=8962799002) |
 | Sr. Software Engineer, Low Latency Computing (Starlink) | SpaceX | Palo Alto, CA |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/spacex/jobs/8962800002?gh_jid=8962800002) |
 | Sr. Software Engineer, High Performance Computing (Starlink) | SpaceX | Redmond, WA |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/spacex/jobs/8962786002?gh_jid=8962786002) |
@@ -189,6 +190,7 @@ For software engineers, IT specialists, and security professionals, this list is
 | Software Engineer (Atlassian Platform Support) | NBCUniversal | New York, NEW YORK, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163743261) |
 | Senior Software Engineer, Applied AI | Klaviyo | Boston, MA |  | 2026-11-25 | [Apply](https://www.klaviyo.com/careers/jobs/8215593003?gh_jid=8215593003) |
 | Software Engineer | jjsnackfoods | TN - La Vergne |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/jjsnackfoods/jobs/5492097008) |
+| Cybersecurity Analyst | uvcyber | Portland, OR | $75k-80k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/uvcyber/26da3562-f84c-4f5c-b20c-7cd2f0f88b30) |
 | Service Desk Level 1 Analyst | dyopath | Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/dyopath/jobs/4731996006) |
 | Senior Software Engineer, Global Trading Operations (Clojure) | DRW | Chicago |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8417238) |
 | Principal Software Engineer - Core | dropzoneai | Remote - US |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/dropzoneai/jobs/4518977009) |
@@ -203,8 +205,6 @@ For software engineers, IT specialists, and security professionals, this list is
 | Software Engineering, Operating Systems Internship (Summer 2027) | apex-technology-inc | Los Angeles | $45/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915) |
 | Flight Software Engineering Internship (Summer 2027) | apex-technology-inc | Los Angeles | $45/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3) |
 | IT Support Engineer (Contract) | ambiencehealthcare | San Francisco | $80-100/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/ambiencehealthcare/c383ea44-20cd-44e4-b0c7-6d23c17f1a71) |
-| Principal Software Engineer | directsupply | Remote Illinois |  | 2026-11-25 | [Apply](https://directsupply.wd501.myworkdayjobs.com/en-US/direct-supply-careers/job/Remote-Illinois/Principal-Software-Engineer_REQ-2026-2472) |
-| Sr Software Engineer | cengage | 2 Locations |  | 2026-11-25 | [Apply](https://cengage.wd5.myworkdayjobs.com/en-US/cengagenorthamericacareers/job/Ohio-USA/Sr-Software-Engineer_R2026-1356) |
 <!-- JOBS_TABLE_END -->
 
 <details>
