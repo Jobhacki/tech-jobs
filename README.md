@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>28,159</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-28</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>30,957</h3><sub>open tech and software jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-28</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-28 08:17 UTC</sub>
+<sub>Snapshot 2026-11-28 12:17 UTC</sub>
 
 </div>
 
@@ -50,27 +50,40 @@ For software engineers, IT specialists, and security professionals, this list is
 
 ## Open jobs
 
-**28,159 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-28 08:17 UTC.** Apply links go to the employer's career page or hiring system.
+**30,957 open tech and software jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-28 12:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Senior Data Service Developer | City of New York | Brooklyn, NY, US |  | 2026-11-28 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017119216) |
+| SENIOR APPLICATION DEVELOPER (Microsoft .NET / Power Platform / Mobile Platform... | City of New York | New York City, NY, US |  | 2026-11-28 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017119481) |
+| Desktop Support Engineer, Family Justice Center | City of New York | Brooklyn, NY, US |  | 2026-11-28 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017119636) |
 | Senior Software Engineer (Full Stack) | walrusfi | Remote (US) |  | 2026-11-28 | [Apply](https://jobs.ashbyhq.com/walrusfi/aa6fd41d-bdbd-4e88-bf32-73af8aa3a662) |
+| Application Developer, Mid | bah | Washington, DC |  | 2026-11-28 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/Application-Developer--Mid_R0254374) |
+| Software Engineer | bah | Rome, NY |  | 2026-11-28 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/Software-Engineer_R0254393) |
 | (USA) Senior, Software Engineer | Walmart | (USA) J STREET OFFICE SPACE AR BENTONVILLE Home Office |  | 2026-11-28 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-J-STREET-OFFICE-SPACE-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Senior--Software-Engineer_R-2555377-1) |
+| Software Engineering PMTS | Salesforce | California - San Francisco |  | 2026-11-28 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR368557) |
+| Senior Software Engineer, AI Infrastructure | Oracle | Nashville, TN, United States |  | 2026-11-27 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345398) |
+| Remote Full Stack Engineer | Pearl | New York, New York, US |  | 2026-11-27 | [Apply](https://apply.workable.com/j/43763FEF04) |
 | Sr. Client Platform Engineer | Zipline | South San Francisco, California, USA |  | 2026-11-27 | [Apply](https://www.zipline.com/open-roles/8217395003?gh_jid=8217395003) |
 | Workday Developer - Temporary (Hybrid - US) | energysolutions | Boston, Massachusetts, United States; Chicago, Illinois, United State... |  | 2026-11-27 | [Apply](https://job-boards.greenhouse.io/energysolutions/jobs/5309839007) |
 | Software Engineer | Stripe | South San Francisco, CA |  | 2026-11-27 | [Apply](https://stripe.com/jobs/search?gh_jid=8421452) |
 | Software Engineer | Stripe | South San Francisco, CA |  | 2026-11-27 | [Apply](https://stripe.com/jobs/search?gh_jid=8421434) |
 | Network Security Engineer | columbiabank | 2 Locations |  | 2026-11-27 | [Apply](https://columbiabank.wd108.myworkdayjobs.com/en-US/columbia/job/Irvine-California/Network-Security-Engineer_JR103617) |
+| Full Stack Developer | bah | Annapolis Junction, MD |  | 2026-11-27 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Annapolis-Junction-MD/Full-Stack-Developer_R0254314-1) |
+| Frontend Team Lead | basspro | Cary, NC |  | 2026-11-27 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Cary-NC/Frontend-Team-Lead_R273486) |
 | (USA) Senior, Software Engineer | Walmart | (USA) Crossman Excellence Building CA SUNNYVALE Home Office |  | 2026-11-27 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Senior--Software-Engineer_R-2683113-1) |
 | Software Engineer, Reporting Platform | Stripe | New York, NY |  | 2026-11-27 | [Apply](https://stripe.com/jobs/search?gh_jid=8421367) |
 | Lead Security Engineer, Cloud Infrastructure | Klaviyo | Boston, MA |  | 2026-11-27 | [Apply](https://www.klaviyo.com/careers/jobs/8210535003?gh_jid=8210535003) |
 | Cybersecurity Analyst | tenex | Kansas City, MO SOC |  | 2026-11-27 | [Apply](https://jobs.ashbyhq.com/tenex/fe1d3543-ed81-4d64-bf14-e5bbadf5cb00) |
 | Staff Software Engineer, Applications Platform | creditgenie | New York, NY | $200k-250k/yr | 2026-11-27 | [Apply](https://jobs.ashbyhq.com/creditgenie/b4845cb7-a56d-4d25-90aa-d71575f0b8ea) |
 | Founding Security Software Engineer | clera | San Francisco | $200k-330k/yr | 2026-11-27 | [Apply](https://jobs.ashbyhq.com/Clera/30ae618c-42b8-43a4-b363-b9c232793264) |
+| Senior Software Engineer - Payments Platform | westernunion | USA TX - Austin - 11902 Burnet Rd |  | 2026-11-27 | [Apply](https://westernunion.wd5.myworkdayjobs.com/en-US/westernunionjobs/job/USA-TX---Austin---11902-Burnet-Rd/Senior-Software-Engineer_JR0131220) |
+| Staff Software Engineer | westernunion | USA TX - Austin - 11902 Burnet Rd |  | 2026-11-27 | [Apply](https://westernunion.wd5.myworkdayjobs.com/en-US/westernunionjobs/job/USA-TX---Austin---11902-Burnet-Rd/Staff-Software-Engineer_JR0132019) |
 | (USA) Staff, Software Engineer | Walmart | (USA) J STREET OFFICE SPACE AR BENTONVILLE Home Office |  | 2026-11-27 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-J-STREET-OFFICE-SPACE-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Staff--Software-Engineer_R-2615609-1) |
 | Full Stack Engineer, Reporting & Analytics | clera | Irving | $68.4k-90.4k/yr | 2026-11-27 | [Apply](https://jobs.ashbyhq.com/Clera/8089a3c4-8a81-4129-8667-d9ee30342b0c) |
 | Senior Software Engineer, Backend (Trust Infra) | Affirm | Remote US |  | 2026-11-27 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8199161003) |
+| Software Developer – Applications | brambles | Santa Clara, California, USA |  | 2026-11-27 | [Apply](https://brambles.wd5.myworkdayjobs.com/en-US/brambles_careers/job/Santa-Clara-California-USA/Software-Developer---Applications_JR25540) |
 | Information Security Engineer III | candescent | IN - Bengaluru - Office |  | 2026-11-27 | [Apply](https://candescent.wd501.myworkdayjobs.com/en-US/hiring/job/IN---Bengaluru---Office/Information-Security-Engineer-III_R0002549) |
 | Principal Security Software Engineer - Identity Access Management (IAM) | Roblox | San Mateo, CA, United States |  | 2026-11-26 | [Apply](https://careers.roblox.com/jobs/8283619?gh_jid=8283619) |
 | Network Administrator (Korean Bilingual) | SBT Global | Irvine, CA, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/SBTGlobalInc/3743990017109296) |
@@ -83,18 +96,33 @@ For software engineers, IT specialists, and security professionals, this list is
 | Java Full Stack Engineer - Professional | HEXAWARE | United States |  | 2026-11-26 | [Apply](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/704699) |
 | Senior Web Developer / Alpharetta GA, Sunnyvale CA, BH NJ and Frisco Tx | Photon | United States |  | 2026-11-26 | [Apply](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/27102) |
 | NetSuite Systems Administrator | doitintl | Remote US East |  | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/doitintl/jobs/8217779003) |
-| Deputy Chief Information Security Officer (DCISO) | City of New York | New York City, NY, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017103566) |
 | Technical Support Agent | autods | Remote |  | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/autods/jobs/5495187008) |
+| Senior Product Software Engineer (AI-enabled products and automation) – Hybrid... | wk | USA - Coppell, TX |  | 2026-11-26 | [Apply](https://wk.wd3.myworkdayjobs.com/en-US/external/job/USA---Coppell-TX/Senior-Product-Software-Engineer--AI-enabled-products-and-automation----Hybrid--USA-TX--R0060752_R0060752-1) |
+| Senior Product Software Engineer (AI-enabled products and automation) – Hybrid... | wk | USA - Coppell, TX |  | 2026-11-26 | [Apply](https://wk.wd3.myworkdayjobs.com/en-US/external/job/USA---Coppell-TX/Senior-Product-Software-Engineer--AI-enabled-products-and-automation----Hybrid--USA-TX--R0060745_R0060745) |
+| Principal Cybersecurity | att | Charlotte, North Carolina |  | 2026-11-26 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Charlotte-North-Carolina/Principal-Cybersecurity_R-129216) |
+| Principal Cybersecurity | att | Charlotte, North Carolina |  | 2026-11-26 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Charlotte-North-Carolina/Principal-Cybersecurity_R-124660) |
+| Lead Software Engineering | att | Alpharetta, Georgia |  | 2026-11-26 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Alpharetta-Georgia/Lead-Software-Engineering_R-126266) |
+| Software Engineer | cisco | RTP, North Carolina, US |  | 2026-11-26 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer_2030720) |
+| Software Engineer | cisco | RTP, North Carolina, US |  | 2026-11-26 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer_2030715) |
+| Software Engineer | cisco | 2 Locations |  | 2026-11-26 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer_2030348) |
+| Business Solutions Developer III | centene | Remote-MO |  | 2026-11-26 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Business-Solutions-Developer-III_1655694) |
+| Mid-Level Software Engineer Manager, Phantom Works | boeing | 3 Locations |  | 2026-11-26 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Mid-Level-Software-Engineer-Manager--Phantom-Works_JR2026529754-1) |
 | Security Engineer | Speak | San Francisco | $150k-280k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/speak/72f49e30-a0bc-4081-bcfe-16bdd7181ccc) |
 | Software Engineer, Core Systems (New Grad, 2027) | Scout AI | Sunnyvale, CA | $135k-190k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897) |
 | Applied Scientist - Cybersecurity | Mistral AI | Palo Alto |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/mistral.ai/5be6a9c6-f7d7-45d4-8951-0dbf58be222f) |
 | Senior Cloud Security Engineer | Anyscale | San Francisco | $200k-240k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/anyscale/cdc7becf-6d38-4e1d-8ff8-ba4f84d5accc) |
+| Trainer / LMS Developer | bpinternational | US: Ohio - Westlake Retail Support Center |  | 2026-11-26 | [Apply](https://bpinternational.wd3.myworkdayjobs.com/en-US/bpcareers/job/US-Ohio---Westlake-Retail-Support-Center/Trainer---LMS-Developer_RQ118067) |
+| Principal Software Engineer, Infrastructure & Service Mesh | Salesforce | 2 Locations |  | 2026-11-26 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Infrastructure-Service-Mesh-Principal--Software-Engineer_JR368846) |
+| Cybersecurity Architect - Digital Assets, VP | Citi | 4 Locations |  | 2026-11-26 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-Castle-Delaware-United-States/Cyber-Architect---C13---NEW-CASTLE_261007768) |
+| Senior Software Developer Test and Automation | NVIDIA | US, CA, Santa Clara |  | 2026-11-26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Developer-Test-and-Automation_JR2030675) |
+| Senior System Software Engineer - AV Platform | NVIDIA | US, CA, Santa Clara |  | 2026-11-26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2030679) |
+| Software Engineer, Salesforce | Humana | 4 Locations |  | 2026-11-26 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Software-Engineer--Salesforce_R-438497-1) |
+| Big Data Software Engineer | Humana | 4 Locations |  | 2026-11-26 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Big-Data-Software-Engineer_R-436474) |
 | Cargo Security Operations | Swift Transportation | Phoenix, AZ, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/knight/job/o8H5zfwd) |
 | Sr. IT Cloud SRE | PeopleOne Health Medical Group PA | Remote Worker - N/A |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694754) |
 | IT Support Technician | ABEC Inc | Springfield, MO |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693255) |
 | Security Operations Engineer | Davis Wright Tremaine LLP | Portland, OR, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/dwt/job/oyh9Bfwj) |
 | Principal Software Engineer | Veson Nautical | United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/veson/job/oz69Bfw9) |
-| Security Engineer - Mid (R-00277) | truezerotech | Washington DC |  | 2026-11-25 | [Apply](https://jobs.lever.co/truezerotech/7eb14145-7999-4eae-b9b0-924f29655d67) |
 | Chief Information Security Officer | Commonwealth of Massachusetts | Milford, MA, US |  | 2026-11-25 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600088N&lang=en) |
 | Lead Software Engineer | Northwell Health | Melville, Suffolk, United States |  | 2026-11-25 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/190684) |
 | SAP Security Engineer, Ford Energy | Ford Motor Company | Dearborn, MI, United States |  | 2026-11-25 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74883) |
@@ -128,6 +156,7 @@ For software engineers, IT specialists, and security professionals, this list is
 | Early Career Software Engineer, Developer Experience | Parallel | San Francisco | $150k-300k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c) |
 | Staff Software Engineer, AI Agents | Notion | San Francisco, California |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/notion/c777ed1e-e23f-4b76-bc21-039aaf06c1de) |
 | Security Engineer | kalshi | New York Office |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/kalshi/6effc9f0-068c-4cea-a255-35fcb801b10c) |
+| System Administrator | erg | Wallops Island, VA | $59.023k-130.339k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/erg/3bf95ac0-7bd3-49d3-b17e-4163d35745bb) |
 | Senior Staff Software Engineer, Automation | crusoe | San Francisco, CA - US |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Crusoe/977f93a5-c789-44e5-b79a-1c727c5b7c26) |
 | Full Stack Engineer | civilgrid | Boston | $132.039k-201.101k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/civilgrid/8fda4773-a81f-4e96-b27e-c12c1b53a969) |
 | Senior Software Engineer | civilgrid | Boston | $148.64k-201.101k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/civilgrid/176be581-ab1f-4272-8029-8e63fcee1b88) |
@@ -135,13 +164,26 @@ For software engineers, IT specialists, and security professionals, this list is
 | Software Engineer - New Grad | CodeRabbit | San Francisco | $170k-185k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51) |
 | Sr. Software Engineer - Control Plane Platform | clickhouse | United States | $142k-250k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/clickhouse/6ac48ac0-de03-4897-b956-b6567493d44b) |
 | Senior AI/ML Technical Content Developer | accenture |  |  | 2026-11-25 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/New-York-One-Manhattan-West-Corp/Technical-Content-Developer-Associate-Manager--AI-POD_R00366686-1) |
+| Senior Software Engineer | corpartners | DBI-Atlanta GA Office |  | 2026-11-25 | [Apply](https://corpartners.wd5.myworkdayjobs.com/en-US/dbiconsultants/job/DBI-Atlanta-GA-Office/Senior-Software-Engineer_R2151) |
+| Staff Lead Engineer - Cloud Platform Developer Experience and Observability | choicehotels | Scottsdale AZ - Technology & Digital Commerce Center |  | 2026-11-25 | [Apply](https://choicehotels.wd5.myworkdayjobs.com/en-US/external/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Staff-Lead-Engineer---Cloud-Platform-Developer-Experience-and-Observability_R22700) |
 | Senior Software Engineer | anchorglass | Tampa |  | 2026-11-25 | [Apply](https://anchorglass.wd1.myworkdayjobs.com/en-US/careers/job/Tampa/Senior-Software-Engineer_JR1000994-1) |
 | (Remote) Technical Support Analyst | harriscomputer | 24 Locations |  | 2026-11-25 | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/en-US/htn/job/Idaho-United-States/XMLNAME--Remote--Technical-Support-Analyst_R0475272-7) |
 | Specialist, Security Operations Centre | cogeco |  |  | 2026-11-25 | [Apply](https://cogeco.wd3.myworkdayjobs.com/en-US/cogeco_careers/job/Rochester-NH/Specialist--Security-Operations-Centre_JR10062) |
 | Senior Software Engineer (Java, Microservices, AWS) | toyota | Plano, Texas |  | 2026-11-25 | [Apply](https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/Senior-Software-Engineer--Java--Microservices--AWS-_10332850) |
 | Software Engineer | toyota | Plano, Texas |  | 2026-11-25 | [Apply](https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/Software-Engineer_10332851) |
 | Software Engineer | toyota | Plano, Texas |  | 2026-11-25 | [Apply](https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/Software-Engineer_10325070) |
+| Technical Support Engineer | cohesity | 2 Locations |  | 2026-11-25 | [Apply](https://cohesity.wd5.myworkdayjobs.com/en-US/cohesity_careers/job/Heathrow-FL---USA-Office/Technical-Support-Engineer_R04630) |
+| Model Platform Engineering (AI Application) Lead, Vice President – Aladdin | blackrock | New York, NY |  | 2026-11-25 | [Apply](https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/New-York-NY/Model-Platform-Engineering--AI-Application--Lead--Vice-President---Aladdin_R267328) |
+| Software Engineer, Technical Suport -- Night Shift | kiongroup | 6 Locations |  | 2026-11-25 | [Apply](https://kiongroup.wd3.myworkdayjobs.com/en-US/kion_scs/job/Grand-Rapids-MI-United-States/Software-Engineer--Technical-Suport----Night-Shift_JR-0099408) |
+| Internship - Software Engineer | asml | San Diego, CA, USA |  | 2026-11-25 | [Apply](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship---Software-Engineer_J-00357859) |
+| Messaging Developer | dentsuaegis | USA-Remote-Colorado |  | 2026-11-25 | [Apply](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/USA-Remote-Colorado/Messaging-Developer_R1136803) |
 | IT Technician I | bannerhealth | BUMC Phoenix (1111 E McDowell Rd) |  | 2026-11-25 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/BUMC-Phoenix-1111-E-McDowell-Rd/IT-Technician-I_R4458168) |
+| Additive Machine Programmer I (Early Career) | blueorigin | Greater Seattle Area |  | 2026-11-25 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Additive-Machine-Programmer-I--Early-Career-_R74547) |
+| Senior Product Security Analyst PM | boeing | USA - Berkeley, MO |  | 2026-11-25 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Senior-Product-Security-Analyst-PM_JR2026527681-1) |
+| Senior Product Security Engineer | boeing | USA - Berkeley, MO |  | 2026-11-25 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Senior-Product-Security-Engineer_JR2026526080-1) |
+| Applications Development Sr Programmer Analyst - C12 - IRVING | Citi | Irving Texas United States |  | 2026-11-25 | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Applications-Development-Sr-Programmer-Analyst---C12---IRVING_261011970) |
+| Senior System Software Engineer, Embedded Formal Methods | NVIDIA | US, CA, Santa Clara |  | 2026-11-25 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Embedded-Formal-Methods_JR2030429) |
+| Senior Software Engineer | Humana | 2 Locations |  | 2026-11-25 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Senior-Software-Engineer_R-434847) |
 | Software Engineer - Computing Platform (New Graduate) | XPENG | Santa Clara, CA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002) |
 | Software Engineer | vestwell | New York, NY / Austin, TX / King of Prussia, PA / Scottsdale, AZ |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/vestwell/jobs/8209319003) |
 | Senior Software Engineer | vestwell | New York, NY / Austin, TX / King of Prussia, PA / Scottsdale, AZ |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/vestwell/jobs/8208700003) |
@@ -163,48 +205,6 @@ For software engineers, IT specialists, and security professionals, this list is
 | Senior Software Engineer, Placer Intelligence | placerlabs | New York, New York |  | 2026-11-25 | [Apply](https://placer.ai/company/we-are-hiring/?gh_jid=8217283003) |
 | Java Developer - (Contractor) MNSITE-3948 | RESPECInc | Saint Paul, MN, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000163737788) |
 | Blockchain Engineer | ondofinance | Remote (US) |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/ondofinance/jobs/4521614009) |
-| Senior Frontend Engineer | onboardmeetings | United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/onboardmeetings/jobs/6271363004) |
-| Staff Mobile Engineer | mesh | United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/mesh/jobs/5494766008) |
-| Software Engineer, Core Software Engineering (2PM - 10PM) | memx | United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/memx/jobs/5494567008) |
-| Software Engineer (Atlassian Platform Support) | NBCUniversal | New York, NEW YORK, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163743261) |
-| Senior Software Engineer, Applied AI | Klaviyo | Boston, MA |  | 2026-11-25 | [Apply](https://www.klaviyo.com/careers/jobs/8215593003?gh_jid=8215593003) |
-| Software Engineer | jjsnackfoods | TN - La Vergne |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/jjsnackfoods/jobs/5492097008) |
-| Cybersecurity Analyst | uvcyber | Portland, OR | $75k-80k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/uvcyber/26da3562-f84c-4f5c-b20c-7cd2f0f88b30) |
-| Service Desk Level 1 Analyst | dyopath | Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/dyopath/jobs/4731996006) |
-| Senior Software Engineer, Global Trading Operations (Clojure) | DRW | Chicago |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8417238) |
-| Principal Software Engineer - Core | dropzoneai | Remote - US |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/dropzoneai/jobs/4518977009) |
-| Cyber Defense Manager | chainguard | United States - Remote |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/chainguard/jobs/4730671006) |
-| Software Engineering (Engineering Productivity) Intern | xona-space | Burlingame, California | $40-45/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab) |
-| Full Stack Software Engineering Team Lead | Treeswift | New York Office |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/treeswift/daf1dee7-3176-43ad-8ae7-ed063804f347) |
-| Senior Software Engineer (Tech Lead), Merchant | tabs | New York City, NY | $175k-240k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/Tabs/45a82e3b-0375-41c2-af8d-a90594637a32) |
-| Full Stack Engineer | MegazoneCloud | Rochester, NY | $80k-120k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/megazone/f6137aee-7d4c-4acd-9d8d-20ef24eaf2ed) |
-| Area Lead, Data Center Security Operations (NORAM - North East) | Anthropic | New York City, NY |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5491501008) |
-| Summer 2027 Internship - Software Engineering Intern | dandy | USA - New York NY | $60/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099) |
-| SAP ABAP Developer | accenturefederalservices | Washington, DC |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4732256006?gh_jid=4732256006) |
-| Software Engineering, Operating Systems Internship (Summer 2027) | apex-technology-inc | Los Angeles | $45/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915) |
-| Flight Software Engineering Internship (Summer 2027) | apex-technology-inc | Los Angeles | $45/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3) |
-| IT Support Engineer (Contract) | ambiencehealthcare | San Francisco | $80-100/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/ambiencehealthcare/c383ea44-20cd-44e4-b0c7-6d23c17f1a71) |
-| Principal Software Engineer | directsupply | Remote Illinois |  | 2026-11-25 | [Apply](https://directsupply.wd501.myworkdayjobs.com/en-US/direct-supply-careers/job/Remote-Illinois/Principal-Software-Engineer_REQ-2026-2472) |
-| AI Software Engineer Senior | asu | Off-Campus: Scottsdale |  | 2026-11-25 | [Apply](https://asu.wd1.myworkdayjobs.com/en-US/asustaffcareers/job/Off-Campus-Scottsdale/AI-Software-Engineer-Senior_JR129518) |
-| Security Engineer | omnissa | Atlanta, Georgia Office |  | 2026-11-25 | [Apply](https://omnissa.wd501.myworkdayjobs.com/en-US/omnissa_external_career_site/job/Atlanta-Georgia-Office/Security-Engineer_R-102485-1) |
-| Sr. Security Engineer | candescent | US - Georgia - Atlanta Office |  | 2026-11-25 | [Apply](https://candescent.wd501.myworkdayjobs.com/en-US/hiring/job/US---Georgia---Atlanta-Office/Sr-Security-Engineer_R0002548) |
-| Power Platform Programmer Regulatory Data and Automation | aep | 2 Locations |  | 2026-11-25 | [Apply](https://aep.wd1.myworkdayjobs.com/en-US/aepcareersite/job/Columbus-OH/Power-Platform-Programmer-Regulatory-Data-and-Automation_R21235) |
-| Retail Back End Department Head | pgatoursuperstore | East Hanover, NJ |  | 2026-11-25 | [Apply](https://pgatoursuperstore.wd12.myworkdayjobs.com/en-US/pgat_ss/job/East-Hanover-NJ/Retail-Back-End-Department-Head_JR8174-1) |
-| Executive IT Support Engineer | taketwo | Austin, Texas, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/taketwo/jobs/8355949) |
-| Window System Administrator (EMM/Knox Admin) | Syncreon Consulting | Plano, TX, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/SyncreonConsulting/744000163706629) |
-| Tier 2 IT Helpdesk Technician - (ADUC, GPOs, DNS, DHCP). | Syncreon Consulting | Plano, TX, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/SyncreonConsulting/744000163706732) |
-| Senior Software Engineer | Renesas Electronics | Austin, TEXAS, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000163705185) |
-| Senior Salesforce Developer | nozominetworks | United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/nozominetworks/jobs/4758661005) |
-| IT TECHNICIAN | noxgroup | Phoenix, Arizona, United States |  | 2026-11-25 | [Apply](https://noxgroup.us/careers/?gh_jid=5493145008) |
-| Senior Staff Software Engineer | nmi | Remote, US |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/nmi/jobs/5493436008) |
-| Security Platform Engineer (NYC BASED) | Equinox | New York, NY, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Equinox/744000163709109) |
-| Field IT Technician New England territory | customcomputerspecialists | Lincoln, RI |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4523587009) |
-| Lead Firmware Engineer | Boston Engineering | Waltham, MA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/BostonEngineeringCorporation/744000163698519) |
-| Senior Consultant, Cybersecurity Project Management | capco | US - New York |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/capco/jobs/8417161) |
-| Full Stack Application Developer | Arista Networks | Cary, NC, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000163713504) |
-| Cloud Platform Engineer – Kubernetes / EKS & DevOps | MegazoneCloud | United States- Remote | $100k-140k/yr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/megazone/0be79b0c-ac1d-41e4-8277-8788c7cec6ad) |
-| Computer Programmer | Axle | Durham, NC |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/axle/jobs/5309279007) |
-| Flight Software Engineer | Anduril Industries | Atlanta, Georgia, United States |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5309020007?gh_jid=5309020007) |
 <!-- JOBS_TABLE_END -->
 
 <details>
